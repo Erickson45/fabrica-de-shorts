@@ -1,0 +1,67 @@
+{
+  "id": "escolha_caminho",
+  "nome": "Escolha Seu Caminho",
+  "formato": "escolha",
+  "icone": "split",
+  "cor": "#E5383B",
+  "descricao": "Histórias sombrias em que o espectador escolhe entre dois caminhos. Mostra primeiro o caminho ruim, depois o bom.",
+  "voz": "pm_alex",
+  "velocidade": 1.0,
+  "clima_escuro": true,
+  "visual": {
+    "cor_a": "#E5383B",
+    "cor_b": "#3A86FF",
+    "cor_destaque": "#FFD60A",
+    "gradiente": [
+      "0x4a0f16",
+      "0x120d18",
+      "0x1c2350"
+    ],
+    "escurecer": -0.12,
+    "saturacao": 0.55,
+    "tom": ""
+  },
+  "estrutura": [
+    "gancho",
+    "escolha",
+    "ruim",
+    "bom",
+    "final"
+  ],
+  "palavras": [
+    105,
+    165
+  ],
+  "tamanhos": "- gancho: 20 a 28 palavras. Coloca você na situação com tensão imediata.\n- escolha: 18 a 25 palavras. Apresenta os caminhos A e B e termina com \"Você tem três segundos.\"\n- ruim: 35 a 45 palavras. Começa com \"Se você escolheu ...\". Final assustador, sem violência explícita.\n- bom: 35 a 45 palavras. Começa com \"Mas se você escolheu ...\". Termina com uma reviravolta que dá arrepio.\n- final: 8 a 12 palavras. Pergunta qual caminho a pessoa escolheria e pede pra comentar.",
+  "categorias": {
+    "Lugares abandonados": [
+      "casa abandonada no meio da floresta",
+      "hospital psiquiátrico desativado",
+      "parque de diversões abandonado à noite",
+      "escola vazia depois da meia-noite",
+      "hotel fechado há 30 anos na serra"
+    ],
+    "Sobrenatural": [
+      "elevador que para num andar que não existe",
+      "espelho que mostra outra pessoa",
+      "boneca que muda de lugar sozinha",
+      "ligação de um número que não existe",
+      "vizinho que só aparece às 3 da manhã"
+    ],
+    "Sobrevivência": [
+      "navio fantasma à deriva",
+      "caverna subterrânea sem saída",
+      "cabana na neve com pegadas que chegam mas não saem",
+      "avião que pousa numa ilha fora do mapa",
+      "farol isolado numa ilha durante uma tempestade"
+    ],
+    "Estradas e cidades": [
+      "estrada deserta à meia-noite",
+      "cidade fantasma no deserto",
+      "trem que não para em nenhuma estação",
+      "metrô vazio às 3 da manhã",
+      "posto de gasolina no meio do nada"
+    ]
+  },
+  "prompt": "Você é roteirista de um canal sombrio de YouTube Shorts chamado \"Escolha Seu Caminho\". Escreva em português do Brasil, segunda pessoa (\"você\"), frases curtas e cheias de detalhes sensoriais (sons, cheiros, frio, escuro).\n\nTEMA: {tema}\n\nTAMANHO DE CADA CENA (conte as palavras, é obrigatório):\n- gancho: 20 a 28 palavras. Coloca você na situação com tensão imediata.\n- escolha: 18 a 25 palavras. Apresenta os caminhos A e B e termina com \"Você tem três segundos.\"\n- ruim: 35 a 45 palavras. Começa com \"Se você escolheu ...\". Final assustador, sem violência explícita.\n- bom: 35 a 45 palavras. Começa com \"Mas se você escolheu ...\". Termina com uma reviravolta que dá arrepio.\n- final: 8 a 12 palavras. Pergunta qual caminho a pessoa escolheria e pede pra comentar.\nTotal: 125 a 150 palavras (o vídeo precisa ficar com menos de 58 segundos).\n\nCampos extras: \"opcao_a\" e \"opcao_b\" = nome curto de cada caminho (2 a 4 palavras); \"ruim\" = \"A\" ou \"B\" (qual caminho é o ruim).\n\n\"busca\" = 2 a 4 palavras EM INGLÊS para achar um vídeo de fundo (ex.: \"dark forest night\").\n\nEXEMPLO no tamanho e estilo certos (é só um exemplo, NÃO copie o tema nem as frases):\n{\n \"titulo\": \"Você ouviria a voz no túnel?\",\n \"descricao\": \"Duas saídas, uma escolha. Qual seria a sua?\",\n \"tags\": [\n  \"terror\",\n  \"escolha\",\n  \"suspense\",\n  \"historia de terror\",\n  \"shorts\"\n ],\n \"opcao_a\": \"Seguir a voz\",\n \"opcao_b\": \"Voltar no escuro\",\n \"ruim\": \"A\",\n \"cenas\": [\n  {\n   \"tipo\": \"gancho\",\n   \"texto\": \"Seu carro morre dentro de um túnel abandonado, às duas da manhã. A lanterna pisca, e lá do fundo alguém chama seu nome. Com a voz da sua mãe.\",\n   \"busca\": \"dark tunnel night\"\n  },\n  {\n   \"tipo\": \"escolha\",\n   \"texto\": \"Você pode seguir a voz até o fim do túnel, ou voltar sozinho pelo escuro por onde entrou. Você tem três segundos.\",\n   \"busca\": \"tunnel flashlight\"\n  },\n  {\n   \"tipo\": \"ruim\",\n   \"texto\": \"Se você escolheu seguir a voz, ela fica mais doce a cada passo. Até que a lanterna apaga, e ela sussurra no seu ouvido: obrigado por ter vindo. Seu carro foi encontrado três dias depois. Com o motor ligado. E vazio.\",\n   \"busca\": \"dark corridor fog\"\n  },\n  {\n   \"tipo\": \"bom\",\n   \"texto\": \"Mas se você escolheu voltar, você corre no escuro e sai do túnel sem fôlego. O celular vibra. É sua mãe, perguntando se você já chegou. Ela está em casa há horas. Então quem te chamava lá dentro?\",\n   \"busca\": \"night road headlights\"\n  },\n  {\n   \"tipo\": \"final\",\n   \"texto\": \"E você, seguiria a voz ou voltaria? Comenta aí.\",\n   \"busca\": \"dark tunnel exit\"\n  }\n ]\n}\n\nAgora escreva um roteiro NOVO sobre o TEMA acima, no mesmo formato JSON e do mesmo tamanho. Responda SOMENTE com o JSON."
+}

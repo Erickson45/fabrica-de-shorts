@@ -1,0 +1,2338 @@
+[
+ {
+  "id": "f01",
+  "categoria": "História macabra",
+  "titulo": "A praga da dança",
+  "texto": "Em 1518, em Estrasburgo, uma mulher começou a dançar na rua e não parou por dias. Em poucas semanas, dezenas de pessoas dançavam sem música, até cair de exaustão.",
+  "busca": "medieval town night"
+ },
+ {
+  "id": "f02",
+  "categoria": "História macabra",
+  "titulo": "A onda de melaço",
+  "texto": "Em 1919, em Boston, um tanque gigante de melaço se rompeu. Uma onda grossa de vários metros invadiu as ruas, derrubou construções e matou vinte e uma pessoas.",
+  "busca": "old city street fog"
+ },
+ {
+  "id": "f03",
+  "categoria": "História macabra",
+  "titulo": "As garotas do rádio",
+  "texto": "Nos anos 1920, operárias pintavam ponteiros de relógio com tinta de rádio e afinavam o pincel com a boca. Algumas chegaram a brilhar no escuro. Muitas adoeceram gravemente por causa disso.",
+  "busca": "glowing clock dark"
+ },
+ {
+  "id": "f04",
+  "categoria": "História macabra",
+  "titulo": "A peste negra",
+  "texto": "Entre 1347 e 1351, a peste negra se espalhou pela Europa. Estima-se que ela tenha matado entre um terço e metade de toda a população do continente em poucos anos.",
+  "busca": "dark medieval street"
+ },
+ {
+  "id": "f05",
+  "categoria": "História macabra",
+  "titulo": "Os médicos de bico",
+  "texto": "No século dezessete, alguns médicos da peste usavam máscaras com um bico longo, cheio de ervas perfumadas. Eles acreditavam que o mau cheiro do ar era o que transmitia a doença.",
+  "busca": "plague doctor mask"
+ },
+ {
+  "id": "f06",
+  "categoria": "História macabra",
+  "titulo": "Os moldes de Pompeia",
+  "texto": "No ano 79, o Vesúvio soterrou a cidade de Pompeia em cinzas. Séculos depois, arqueólogos encheram de gesso os vazios deixados pelos corpos e revelaram as últimas posições das vítimas.",
+  "busca": "volcano smoke dark"
+ },
+ {
+  "id": "f07",
+  "categoria": "História macabra",
+  "titulo": "Remédio de múmia",
+  "texto": "Durante séculos, na Europa, pó de múmia egípcia foi vendido como remédio. Pessoas comiam restos humanos moídos acreditando que curavam dores, feridas e até doenças graves.",
+  "busca": "ancient egypt tomb"
+ },
+ {
+  "id": "f08",
+  "categoria": "História macabra",
+  "titulo": "O grande fedor",
+  "texto": "No verão de 1858, o rio Tâmisa, em Londres, estava tão cheio de esgoto que o cheiro tomou a cidade. O episódio ficou conhecido como o grande fedor e forçou a criação de esgotos modernos.",
+  "busca": "dark river city night"
+ },
+ {
+  "id": "f09",
+  "categoria": "História macabra",
+  "titulo": "Burke e Hare",
+  "texto": "Em 1828, em Edimburgo, William Burke e William Hare mataram dezesseis pessoas para vender os corpos a uma escola de anatomia, que pagava bem por cadáveres frescos.",
+  "busca": "old cemetery fog"
+ },
+ {
+  "id": "f10",
+  "categoria": "História macabra",
+  "titulo": "O incêndio de Londres",
+  "texto": "Em 1666, um incêndio que começou numa padaria se espalhou por Londres durante dias. Mais de treze mil casas foram destruídas e grande parte da cidade virou cinzas.",
+  "busca": "fire flames dark"
+ },
+ {
+  "id": "f11",
+  "categoria": "Mistérios sem solução",
+  "titulo": "O Mary Celeste",
+  "texto": "Em 1872, o navio Mary Celeste foi achado à deriva no Atlântico, sem ninguém a bordo, com carga e mantimentos quase intactos. A tripulação nunca foi encontrada.",
+  "busca": "ghost ship fog"
+ },
+ {
+  "id": "f12",
+  "categoria": "Mistérios sem solução",
+  "titulo": "O Passo Dyatlov",
+  "texto": "Em 1959, nove montanhistas morreram nos Montes Urais, na Rússia. A barraca foi cortada por dentro, e alguns corpos estavam longe dela, na neve, sem sapatos.",
+  "busca": "snow mountain night"
+ },
+ {
+  "id": "f13",
+  "categoria": "Mistérios sem solução",
+  "titulo": "A colônia perdida",
+  "texto": "Em 1590, colonos voltaram à ilha de Roanoke, na América do Norte, e não encontraram ninguém. Mais de cem pessoas tinham sumido. Só restou a palavra Croatoan entalhada num poste.",
+  "busca": "dark forest fog"
+ },
+ {
+  "id": "f14",
+  "categoria": "Mistérios sem solução",
+  "titulo": "Amelia Earhart",
+  "texto": "Em 1937, a aviadora Amelia Earhart tentava dar a volta ao mundo quando desapareceu sobre o Oceano Pacífico. Nem ela, nem o avião foram encontrados até hoje.",
+  "busca": "old airplane clouds"
+ },
+ {
+  "id": "f15",
+  "categoria": "Mistérios sem solução",
+  "titulo": "O voo MH370",
+  "texto": "Em 2014, um avião da Malaysia Airlines com 239 pessoas sumiu dos radares. Apenas alguns destroços apareceram depois, e o paradeiro principal do avião continua sem resposta.",
+  "busca": "airplane night sky"
+ },
+ {
+  "id": "f16",
+  "categoria": "Mistérios sem solução",
+  "titulo": "O manuscrito Voynich",
+  "texto": "Existe um livro do século quinze escrito numa língua que ninguém conseguiu ler. Cheio de plantas desconhecidas e desenhos estranhos, o manuscrito Voynich desafia especialistas há mais de cem anos.",
+  "busca": "old book candle"
+ },
+ {
+  "id": "f17",
+  "categoria": "Mistérios sem solução",
+  "titulo": "O sinal Wow",
+  "texto": "Em 1977, um radiotelescópio nos Estados Unidos captou um sinal forte vindo do espaço, que durou setenta e dois segundos. Ele nunca mais se repetiu, e a origem continua incerta.",
+  "busca": "radio telescope night"
+ },
+ {
+  "id": "f18",
+  "categoria": "Mistérios sem solução",
+  "titulo": "O assassino do Zodíaco",
+  "texto": "No fim dos anos 1960, um assassino na Califórnia mandava cartas e códigos para os jornais e se chamava de Zodíaco. Ele nunca foi identificado oficialmente.",
+  "busca": "dark city night street"
+ },
+ {
+  "id": "f19",
+  "categoria": "Mistérios sem solução",
+  "titulo": "Os faroleiros sumidos",
+  "texto": "Em 1900, três faroleiros desapareceram de um farol nas Ilhas Flannan, na Escócia. Quando o barco de troca chegou, o farol estava vazio, e eles nunca foram encontrados.",
+  "busca": "lighthouse storm"
+ },
+ {
+  "id": "f20",
+  "categoria": "Mistérios sem solução",
+  "titulo": "O homem de Somerton",
+  "texto": "Em 1948, um homem foi achado morto numa praia da Austrália, com um papel escrito Tamam Shud no bolso. Por décadas ninguém soube quem ele era nem como morreu.",
+  "busca": "beach night dark"
+ },
+ {
+  "id": "f21",
+  "categoria": "Ciência sombria",
+  "titulo": "A prisão de Stanford",
+  "texto": "Em 1971, estudantes fizeram papel de guardas e presos numa prisão simulada na Universidade de Stanford. O experimento saiu do controle e foi encerrado depois de apenas seis dias.",
+  "busca": "prison corridor dark"
+ },
+ {
+  "id": "f22",
+  "categoria": "Ciência sombria",
+  "titulo": "O experimento de Milgram",
+  "texto": "Nos anos 1960, voluntários foram mandados dar choques em outra pessoa a cada erro. Os choques eram falsos, mas a maioria obedeceu até níveis que acreditava serem perigosos.",
+  "busca": "dark laboratory"
+ },
+ {
+  "id": "f23",
+  "categoria": "Ciência sombria",
+  "titulo": "O núcleo demônio",
+  "texto": "Entre 1945 e 1946, um núcleo de plutônio nos Estados Unidos causou dois acidentes de radiação que mataram dois cientistas. Depois disso, ele ganhou o apelido de núcleo demônio.",
+  "busca": "radiation warning"
+ },
+ {
+  "id": "f24",
+  "categoria": "Ciência sombria",
+  "titulo": "O fungo zumbi",
+  "texto": "Existe um fungo que infecta formigas e controla o comportamento delas. A formiga sobe numa planta, prende a mandíbula numa folha e morre. Então o fungo brota da cabeça dela.",
+  "busca": "fungus macro dark"
+ },
+ {
+  "id": "f25",
+  "categoria": "Ciência sombria",
+  "titulo": "A nuvem do lago Nyos",
+  "texto": "Em 1986, o lago Nyos, em Camarões, liberou de repente uma enorme nuvem de gás carbônico. Ela desceu pelos vales durante a noite e matou cerca de mil e setecentas pessoas.",
+  "busca": "foggy lake night"
+ },
+ {
+  "id": "f26",
+  "categoria": "Ciência sombria",
+  "titulo": "A água radioativa",
+  "texto": "Nos anos 1920, um remédio chamado Radithor, feito com água e rádio, era vendido como tônico de saúde. Um empresário que bebeu centenas de frascos morreu em 1932 por envenenamento.",
+  "busca": "old medicine bottles"
+ },
+ {
+  "id": "f27",
+  "categoria": "Ciência sombria",
+  "titulo": "A água-viva imortal",
+  "texto": "A água-viva Turritopsis dohrnii consegue voltar para uma fase jovem da vida quando está ferida ou velha. Por isso, ela ficou conhecida como a água-viva imortal.",
+  "busca": "jellyfish dark water"
+ },
+ {
+  "id": "f28",
+  "categoria": "Ciência sombria",
+  "titulo": "A doença sem sono",
+  "texto": "A insônia familiar fatal é uma doença genética rara. A pessoa perde, aos poucos, a capacidade de dormir, e a doença não tem cura até hoje.",
+  "busca": "dark bedroom night"
+ },
+ {
+  "id": "f29",
+  "categoria": "Ciência sombria",
+  "titulo": "O ursinho-d'água",
+  "texto": "Os tardígrados são animais microscópicos quase indestrutíveis. Em 2007, cientistas os levaram ao espaço, expostos ao vácuo, e muitos voltaram vivos.",
+  "busca": "microscope cells"
+ },
+ {
+  "id": "f30",
+  "categoria": "Ciência sombria",
+  "titulo": "A pressão do abismo",
+  "texto": "No fundo da Fossa das Marianas, a pressão da água é mais de mil vezes maior que na superfície. Mesmo assim, cientistas já encontraram vida lá embaixo.",
+  "busca": "deep ocean dark"
+ },
+ {
+  "id": "f31",
+  "categoria": "Lugares proibidos",
+  "titulo": "A ilha das cobras",
+  "texto": "No litoral de São Paulo fica a Ilha da Queimada Grande, lar da jararaca-ilhoa, uma cobra venenosa que só existe lá. A visita é proibida, salvo para pesquisas autorizadas.",
+  "busca": "island ocean aerial"
+ },
+ {
+  "id": "f32",
+  "categoria": "Lugares proibidos",
+  "titulo": "A Ilha Sentinela",
+  "texto": "Na Ilha Sentinela do Norte, no Oceano Índico, vive um povo que recusa qualquer contato. O governo da Índia proíbe chegar perto da ilha, para proteger os moradores e os visitantes.",
+  "busca": "tropical island dark"
+ },
+ {
+  "id": "f33",
+  "categoria": "Lugares proibidos",
+  "titulo": "As catacumbas de Paris",
+  "texto": "Embaixo de Paris existem túneis com os ossos de mais de seis milhões de pessoas, levados para lá dos cemitérios lotados. Só uma pequena parte é aberta para visitação.",
+  "busca": "catacombs skulls"
+ },
+ {
+  "id": "f34",
+  "categoria": "Lugares proibidos",
+  "titulo": "A cidade de Pripyat",
+  "texto": "Pripyat, na Ucrânia, foi evacuada um dia depois do acidente de Chernobyl, em 1986. Quase cinquenta mil pessoas saíram às pressas, e a cidade continua abandonada até hoje.",
+  "busca": "abandoned city"
+ },
+ {
+  "id": "f35",
+  "categoria": "Lugares proibidos",
+  "titulo": "A ilha fantasma",
+  "texto": "A ilha de Hashima, no Japão, já foi um dos lugares mais lotados do planeta, por causa de uma mina de carvão. Em 1974, a mina fechou e todos foram embora.",
+  "busca": "abandoned building ruins"
+ },
+ {
+  "id": "f36",
+  "categoria": "Lugares proibidos",
+  "titulo": "A ilha da quarentena",
+  "texto": "Poveglia, perto de Veneza, foi usada por muito tempo para isolar doentes em épocas de epidemia. Hoje a ilha está abandonada e o acesso é restrito.",
+  "busca": "abandoned island fog"
+ },
+ {
+  "id": "f37",
+  "categoria": "Lugares proibidos",
+  "titulo": "A cidade que queima",
+  "texto": "Em Centralia, nos Estados Unidos, um incêndio começou numa mina de carvão em 1962 e nunca se apagou. Quase todos os moradores foram embora, e a fumaça ainda sai do chão.",
+  "busca": "smoke ground abandoned"
+ },
+ {
+  "id": "f38",
+  "categoria": "Lugares proibidos",
+  "titulo": "A Área 51",
+  "texto": "No deserto de Nevada fica a Área 51, uma base militar tão secreta que o governo americano só reconheceu oficialmente a existência dela em 2013.",
+  "busca": "desert night"
+ },
+ {
+  "id": "f39",
+  "categoria": "Lugares proibidos",
+  "titulo": "A capela dos ossos",
+  "texto": "Em Évora, Portugal, há uma capela com paredes cobertas por milhares de ossos humanos. Na entrada, uma frase avisa: nós, ossos que aqui estamos, pelos vossos esperamos.",
+  "busca": "skulls bones chapel"
+ },
+ {
+  "id": "f40",
+  "categoria": "Lugares proibidos",
+  "titulo": "A cidade congelada",
+  "texto": "Varosha, no Chipre, era um balneário famoso até 1974, quando foi esvaziada durante um conflito. A cidade ficou décadas fechada, com hotéis e casas parados no tempo.",
+  "busca": "abandoned hotel"
+ },
+ {
+  "id": "f041",
+  "categoria": "História macabra",
+  "titulo": "O incêndio de Roma",
+  "texto": "Em 64, um incêndio queimou Roma por vários dias e destruiu boa parte da cidade. O imperador Nero culpou os cristãos, que passaram a ser perseguidos com crueldade.",
+  "busca": "ancient ruins fire",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f042",
+  "categoria": "História macabra",
+  "titulo": "A gripe espanhola",
+  "texto": "Entre 1918 e 1920, a gripe espanhola infectou cerca de um terço da população mundial. Ela matou dezenas de milhões de pessoas, mais do que a Primeira Guerra.",
+  "busca": "old hospital beds",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f043",
+  "categoria": "História macabra",
+  "titulo": "A varíola",
+  "texto": "Só no século 20, estima-se que a varíola matou cerca de 300 milhões de pessoas. Em 1980, ela foi declarada a primeira doença humana erradicada do planeta.",
+  "busca": "old medicine vials",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f044",
+  "categoria": "História macabra",
+  "titulo": "O naufrágio do Titanic",
+  "texto": "Em 1912, o Titanic bateu num iceberg na viagem inaugural. Os botes salva-vidas só cabiam cerca de metade dos passageiros, e mais de 1.500 pessoas morreram.",
+  "busca": "ship ocean night",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f045",
+  "categoria": "História macabra",
+  "titulo": "O Hindenburg",
+  "texto": "Em 1937, o dirigível Hindenburg pegou fogo ao pousar nos Estados Unidos. Em cerca de meio minuto, a aeronave gigante virou uma bola de fogo diante das câmeras.",
+  "busca": "fire smoke sky",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f046",
+  "categoria": "História macabra",
+  "titulo": "A explosão do Krakatoa",
+  "texto": "Em 1883, o vulcão Krakatoa explodiu na Indonésia. O estrondo foi ouvido a milhares de quilômetros, e os tsunamis mataram mais de 36 mil pessoas.",
+  "busca": "volcano eruption",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f047",
+  "categoria": "História macabra",
+  "titulo": "O ano sem verão",
+  "texto": "Em 1815, o vulcão Tambora entrou em erupção. As cinzas esfriaram o planeta, e 1816 ficou conhecido como o ano sem verão, com neve em junho e fome.",
+  "busca": "snow storm dark",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f048",
+  "categoria": "História macabra",
+  "titulo": "O terremoto de Lisboa",
+  "texto": "No Dia de Todos os Santos de 1755, um terremoto destruiu Lisboa. Depois vieram um tsunami e incêndios. Dezenas de milhares de pessoas morreram.",
+  "busca": "ruined city",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f049",
+  "categoria": "História macabra",
+  "titulo": "As bruxas de Salém",
+  "texto": "Em 1692, na vila de Salém, nos Estados Unidos, acusações de bruxaria viraram histeria. Dezenove pessoas foram enforcadas, e muitas outras foram presas.",
+  "busca": "old village fog",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f050",
+  "categoria": "História macabra",
+  "titulo": "A caça às bruxas",
+  "texto": "Entre os séculos 15 e 18, dezenas de milhares de pessoas foram executadas por bruxaria na Europa. A maioria era mulher, e muitas confessaram sob tortura.",
+  "busca": "candle dark forest",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f051",
+  "categoria": "História macabra",
+  "titulo": "O Terror da guilhotina",
+  "texto": "Durante a Revolução Francesa, no período chamado de Terror, milhares de pessoas foram guilhotinadas em praça pública. Entre elas, o rei Luís 16 e a rainha Maria Antonieta.",
+  "busca": "old paris street",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f052",
+  "categoria": "História macabra",
+  "titulo": "As grades nas covas",
+  "texto": "No século 19, na Escócia, famílias colocavam gaiolas de ferro sobre os túmulos. Era para impedir que ladrões de corpos desenterrassem os mortos e os vendessem.",
+  "busca": "old cemetery iron",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f053",
+  "categoria": "História macabra",
+  "titulo": "Os caixões com sino",
+  "texto": "Com medo de serem enterradas vivas, pessoas do século 19 criaram caixões de segurança, com cordas ligadas a sinos na superfície, para o morto avisar se acordasse.",
+  "busca": "old bell dark",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f054",
+  "categoria": "História macabra",
+  "titulo": "Fotos com os mortos",
+  "texto": "Na era vitoriana, era comum fotografar parentes mortos como se estivessem vivos, às vezes sentados ao lado da família. Muitas vezes, era o único retrato que restava.",
+  "busca": "old photograph vintage",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f055",
+  "categoria": "História macabra",
+  "titulo": "O papel de parede venenoso",
+  "texto": "No século 19, um verde muito popular nos papéis de parede era feito com arsênico. Em casas úmidas, ele podia soltar substâncias tóxicas no ar.",
+  "busca": "old wallpaper room",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f056",
+  "categoria": "História macabra",
+  "titulo": "Os chapeleiros malucos",
+  "texto": "Os chapeleiros do século 19 usavam mercúrio para tratar o feltro. Muitos sofriam tremores e alterações de comportamento, e daí veio a expressão louco como um chapeleiro.",
+  "busca": "old hat workshop",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f057",
+  "categoria": "História macabra",
+  "titulo": "A maquiagem de chumbo",
+  "texto": "Na época da rainha Elizabeth 1ª, a pele muito branca era moda. Para isso, usava-se uma maquiagem feita com chumbo, que envenenava aos poucos quem a usava.",
+  "busca": "old portrait painting",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f058",
+  "categoria": "História macabra",
+  "titulo": "Os dentes de Waterloo",
+  "texto": "No século 19, dentaduras eram feitas com dentes humanos, muitos tirados de soldados mortos em batalhas. Elas ficaram conhecidas como dentes de Waterloo.",
+  "busca": "battlefield fog",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f059",
+  "categoria": "História macabra",
+  "titulo": "A grande fome irlandesa",
+  "texto": "Entre 1845 e 1852, uma praga destruiu as batatas da Irlanda. Cerca de 1 milhão de pessoas morreram de fome, e outro milhão deixou o país.",
+  "busca": "empty field fog",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f060",
+  "categoria": "História macabra",
+  "titulo": "A explosão de Halifax",
+  "texto": "Em 1917, um navio cheio de explosivos bateu em outro no porto de Halifax, no Canadá. A explosão destruiu parte da cidade e matou cerca de 2 mil pessoas.",
+  "busca": "harbor explosion smoke",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f061",
+  "categoria": "História macabra",
+  "titulo": "O incêndio da fábrica",
+  "texto": "Em 1911, um incêndio atingiu uma fábrica de roupas em Nova York. As portas estavam trancadas, e 146 trabalhadoras e trabalhadores morreram, muitos deles jovens imigrantes.",
+  "busca": "old factory fire",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f062",
+  "categoria": "História macabra",
+  "titulo": "Os canários das minas",
+  "texto": "Por décadas, mineiros levavam canários para as minas de carvão. Se o pássaro passasse mal, era sinal de gás tóxico no ar, e todos precisavam fugir.",
+  "busca": "coal mine dark",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f063",
+  "categoria": "História macabra",
+  "titulo": "A peste de Atenas",
+  "texto": "Em 430 antes de Cristo, uma epidemia atingiu Atenas durante uma guerra. Ela matou grande parte da população, inclusive o líder Péricles.",
+  "busca": "ancient greek ruins",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f064",
+  "categoria": "História macabra",
+  "titulo": "A doença do suor",
+  "texto": "Nos séculos 15 e 16, uma doença misteriosa atingiu a Inglaterra. Ela podia matar em poucas horas, e depois desapareceu. Até hoje ninguém sabe a causa.",
+  "busca": "foggy old town",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f065",
+  "categoria": "História macabra",
+  "titulo": "A bomba de Broad Street",
+  "texto": "Em 1854, uma epidemia de cólera atingiu Londres. O médico John Snow descobriu que a fonte era uma bomba de água e mandou retirar a alavanca dela.",
+  "busca": "old water pump",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f066",
+  "categoria": "História macabra",
+  "titulo": "Vlad, o Empalador",
+  "texto": "No século 15, o príncipe Vlad 3º, da Valáquia, ficou famoso por empalar inimigos. O nome dele, Drácula, inspirou o vampiro mais famoso da literatura.",
+  "busca": "castle night fog",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f067",
+  "categoria": "História macabra",
+  "titulo": "A condessa sangrenta",
+  "texto": "No século 17, a condessa húngara Elizabeth Báthory foi acusada de matar dezenas de jovens. A lenda de que ela se banhava em sangue surgiu depois, sem provas.",
+  "busca": "castle dark candle",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f068",
+  "categoria": "História macabra",
+  "titulo": "Ana Bolena",
+  "texto": "Em 1536, Ana Bolena, esposa do rei Henrique 8º, foi decapitada na Torre de Londres. Para a execução, trouxeram um espadachim da França.",
+  "busca": "medieval tower",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f069",
+  "categoria": "História macabra",
+  "titulo": "A maldição de Tutancâmon",
+  "texto": "Em 1922, Howard Carter abriu o túmulo de Tutancâmon. Meses depois, o patrocinador da escavação morreu, e nasceu a lenda da maldição do faraó.",
+  "busca": "egyptian tomb",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f070",
+  "categoria": "História macabra",
+  "titulo": "O pior ano da história",
+  "texto": "Historiadores chamam o ano de 536 de um dos piores para se estar vivo. Uma névoa escureceu o céu por meses, o frio destruiu colheitas e veio a fome.",
+  "busca": "dark sky fog",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f071",
+  "categoria": "História macabra",
+  "titulo": "A enchente de cerveja",
+  "texto": "Em 1814, em Londres, um tanque gigante de cerveja estourou numa cervejaria. A onda invadiu as ruas vizinhas e matou 8 pessoas.",
+  "busca": "old london street",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f072",
+  "categoria": "História macabra",
+  "titulo": "A ponte do rio Tay",
+  "texto": "Numa noite de tempestade em 1879, a ponte sobre o rio Tay, na Escócia, desabou com um trem passando. Ninguém a bordo sobreviveu.",
+  "busca": "bridge storm night",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f073",
+  "categoria": "História macabra",
+  "titulo": "A Água Tofana",
+  "texto": "No século 17, na Itália, circulava um veneno chamado Água Tofana. Sem cheiro e sem gosto, ele foi ligado a centenas de mortes de maridos.",
+  "busca": "old glass bottles",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f074",
+  "categoria": "História macabra",
+  "titulo": "O grande smog",
+  "texto": "Em dezembro de 1952, uma névoa de poluição cobriu Londres por cinco dias. Ela foi ligada à morte de milhares de pessoas.",
+  "busca": "city smog fog",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f075",
+  "categoria": "História macabra",
+  "titulo": "Os gatos mumificados",
+  "texto": "No Egito antigo, milhões de gatos foram mumificados como oferendas. No século 19, toneladas dessas múmias foram levadas para a Inglaterra e usadas como fertilizante.",
+  "busca": "egypt desert dusk",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f076",
+  "categoria": "História macabra",
+  "titulo": "A cabeça de Cromwell",
+  "texto": "Em 1661, anos depois de morto, Oliver Cromwell foi desenterrado e decapitado. A cabeça dele ficou exposta numa estaca em Londres por décadas.",
+  "busca": "medieval stone wall",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f077",
+  "categoria": "História macabra",
+  "titulo": "O julgamento do cadáver",
+  "texto": "Em 897, o papa Estêvão 6º mandou desenterrar o papa anterior, Formoso. O cadáver foi vestido, colocado num trono e julgado.",
+  "busca": "old church dark",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f078",
+  "categoria": "História macabra",
+  "titulo": "Os meninos das chaminés",
+  "texto": "Na Inglaterra dos séculos 18 e 19, crianças limpavam chaminés por dentro. Em 1775, um médico ligou esse trabalho a um câncer, um dos primeiros ligados a uma profissão.",
+  "busca": "chimney smoke roofs",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f079",
+  "categoria": "História macabra",
+  "titulo": "Maria Tifoide",
+  "texto": "Mary Mallon era cozinheira em Nova York no início do século 20. Sem ter sintomas, ela transmitiu febre tifoide a dezenas de pessoas e passou décadas isolada.",
+  "busca": "old kitchen dark",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f080",
+  "categoria": "História macabra",
+  "titulo": "A talidomida",
+  "texto": "Nos anos 1950 e 1960, a talidomida foi vendida como remédio para enjoo na gravidez. Ela causou malformações graves em cerca de 10 mil bebês no mundo.",
+  "busca": "medicine pills dark",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f081",
+  "categoria": "História macabra",
+  "titulo": "A morte de César",
+  "texto": "Em 44 antes de Cristo, Júlio César foi cercado por senadores no Senado de Roma. Segundo os relatos antigos, ele levou 23 facadas.",
+  "busca": "roman statue",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f082",
+  "categoria": "História macabra",
+  "titulo": "A grande peste de Londres",
+  "texto": "Entre 1665 e 1666, a peste matou cerca de 100 mil pessoas em Londres, perto de um quarto da população da cidade.",
+  "busca": "medieval street night",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f083",
+  "categoria": "História macabra",
+  "titulo": "O escorbuto",
+  "texto": "Na era das grandes navegações, o escorbuto, causado pela falta de vitamina C, matou muitos marinheiros. Estima-se que tenha matado mais do que as batalhas no mar.",
+  "busca": "old sailing ship",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f084",
+  "categoria": "História macabra",
+  "titulo": "As colônias de isolamento",
+  "texto": "Por décadas, pessoas com hanseníase foram isoladas à força em colônias, inclusive no Brasil. Muitas foram separadas dos filhos e nunca mais voltaram para casa.",
+  "busca": "abandoned hospital",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f085",
+  "categoria": "História macabra",
+  "titulo": "O naufrágio do Vasa",
+  "texto": "Em 1628, o navio de guerra sueco Vasa afundou poucos minutos depois de zarpar, ainda à vista da multidão. Ele foi resgatado do fundo em 1961, quase intacto.",
+  "busca": "old warship",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f086",
+  "categoria": "História macabra",
+  "titulo": "As torres do silêncio",
+  "texto": "Na tradição zoroastriana, os mortos eram deixados no alto de torres de pedra, as torres do silêncio, para que os abutres levassem os corpos.",
+  "busca": "vultures sky",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f087",
+  "categoria": "História macabra",
+  "titulo": "O cirurgião mais rápido",
+  "texto": "Antes da anestesia, a velocidade salvava vidas. O cirurgião escocês Robert Liston, no século 19, era famoso por amputar uma perna em poucos minutos.",
+  "busca": "old surgical tools",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f088",
+  "categoria": "História macabra",
+  "titulo": "A sangria",
+  "texto": "Por séculos, médicos tiravam sangue dos doentes achando que isso curava. Em 1799, George Washington foi sangrado várias vezes antes de morrer.",
+  "busca": "old medical book",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f089",
+  "categoria": "História macabra",
+  "titulo": "A lobotomia",
+  "texto": "Em 1949, o inventor da lobotomia ganhou o Prêmio Nobel. Nas décadas seguintes, dezenas de milhares de pessoas passaram pela cirurgia, muitas com danos para sempre.",
+  "busca": "old hospital corridor",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f090",
+  "categoria": "História macabra",
+  "titulo": "O cemitério de navios",
+  "texto": "A costa da Namíbia tem tantos navios naufragados e ossos de baleias na areia que ganhou o apelido de Costa dos Esqueletos.",
+  "busca": "shipwreck beach",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f091",
+  "categoria": "História macabra",
+  "titulo": "Os sinos dos mortos",
+  "texto": "Na Idade Média, na época da peste, carroças passavam pelas ruas recolhendo corpos, e um sino avisava os moradores para trazerem seus mortos.",
+  "busca": "medieval bell tower",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f092",
+  "categoria": "História macabra",
+  "titulo": "A dança da morte",
+  "texto": "Depois da peste negra, artistas europeus pintavam a dança macabra: esqueletos dançando com reis, padres e camponeses, lembrando que a morte leva todos.",
+  "busca": "skeleton art",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f093",
+  "categoria": "História macabra",
+  "titulo": "O desastre do Sultana",
+  "texto": "Em 1865, o barco a vapor Sultana explodiu no rio Mississippi, lotado de ex-prisioneiros de guerra. Mais de mil pessoas morreram.",
+  "busca": "river night fog",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f094",
+  "categoria": "História macabra",
+  "titulo": "A tragédia do Donner",
+  "texto": "No inverno de 1846, um grupo de pioneiros ficou preso pela neve nas montanhas da Califórnia. Para sobreviver, alguns recorreram ao canibalismo.",
+  "busca": "snow mountains dark",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f095",
+  "categoria": "História macabra",
+  "titulo": "O naufrágio do Medusa",
+  "texto": "Em 1816, a fragata francesa Medusa encalhou na costa da África. Cerca de 150 pessoas foram para uma jangada, e só 15 sobreviveram.",
+  "busca": "raft ocean storm",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f096",
+  "categoria": "História macabra",
+  "titulo": "A Torre de Londres",
+  "texto": "Por séculos, a Torre de Londres foi prisão de nobres e traidores. Duas esposas do rei Henrique 8º foram executadas dentro dos muros dela.",
+  "busca": "tower of london",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f097",
+  "categoria": "História macabra",
+  "titulo": "Pólvora e conspiração",
+  "texto": "Em 1605, conspiradores esconderam barris de pólvora embaixo do Parlamento inglês para matar o rei. Guy Fawkes foi pego com os explosivos na véspera.",
+  "busca": "barrels dark cellar",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f098",
+  "categoria": "História macabra",
+  "titulo": "O sono eterno de Pompeia",
+  "texto": "Em Herculano, vizinha de Pompeia, arqueólogos encontraram centenas de esqueletos nos barcos da praia. As pessoas esperavam um resgate que nunca veio.",
+  "busca": "ancient ruins beach",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f099",
+  "categoria": "História macabra",
+  "titulo": "Os sobreviventes do Essex",
+  "texto": "Em 1820, o baleeiro Essex foi afundado por uma baleia. Os sobreviventes passaram meses à deriva, e a história inspirou o livro Moby Dick.",
+  "busca": "whale ocean dark",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f100",
+  "categoria": "História macabra",
+  "titulo": "A explosão de Texas City",
+  "texto": "Em 1947, um navio carregado de fertilizante explodiu no porto de Texas City, nos Estados Unidos. A explosão matou centenas de pessoas.",
+  "busca": "industrial port smoke",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f101",
+  "categoria": "Mistérios sem solução",
+  "titulo": "Jack, o Estripador",
+  "texto": "Em 1888, no bairro de Whitechapel, em Londres, um assassino matou ao menos cinco mulheres e enviou cartas provocando a polícia. Ele nunca foi identificado.",
+  "busca": "foggy london street night",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f102",
+  "categoria": "Mistérios sem solução",
+  "titulo": "O voo 19",
+  "texto": "Em 1945, cinco aviões militares americanos desapareceram durante um treino perto das Bermudas. Um avião enviado para resgatá-los também sumiu. Nenhum destroço foi encontrado.",
+  "busca": "old military planes",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f103",
+  "categoria": "Mistérios sem solução",
+  "titulo": "O navio Carroll A. Deering",
+  "texto": "Em 1921, o navio Carroll A. Deering foi achado encalhado na costa dos Estados Unidos, com a comida pronta na cozinha. A tripulação inteira tinha sumido.",
+  "busca": "ship aground fog",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f104",
+  "categoria": "Mistérios sem solução",
+  "titulo": "As linhas de Nazca",
+  "texto": "No deserto do Peru existem desenhos gigantes feitos no chão há cerca de 2 mil anos. Muitos só podem ser vistos do alto, e o propósito deles ainda é debatido.",
+  "busca": "desert aerial lines",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f105",
+  "categoria": "Mistérios sem solução",
+  "titulo": "Stonehenge",
+  "texto": "Stonehenge foi erguido na Inglaterra há milhares de anos, com pedras de várias toneladas trazidas de longe. Até hoje, ninguém sabe ao certo para que ele servia.",
+  "busca": "stonehenge fog",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f106",
+  "categoria": "Mistérios sem solução",
+  "titulo": "O enigma Kryptos",
+  "texto": "Em 1990, uma escultura com mensagens cifradas foi instalada na sede da CIA. Três partes foram decifradas. A quarta continua sem solução até hoje.",
+  "busca": "secret code dark",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f107",
+  "categoria": "Mistérios sem solução",
+  "titulo": "Cicada 3301",
+  "texto": "Em 2012, enigmas complexos começaram a aparecer na internet, assinados como Cicada 3301. Milhares tentaram resolver. Quem estava por trás nunca foi revelado.",
+  "busca": "computer code dark",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f108",
+  "categoria": "Mistérios sem solução",
+  "titulo": "D. B. Cooper",
+  "texto": "Em 1971, um homem sequestrou um avião nos Estados Unidos, recebeu um resgate de 200 mil dólares e saltou de paraquedas na noite. Nunca foi encontrado.",
+  "busca": "airplane night rain",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f109",
+  "categoria": "Mistérios sem solução",
+  "titulo": "A Dália Negra",
+  "texto": "Em 1947, o corpo de Elizabeth Short foi encontrado em Los Angeles. O caso, conhecido como Dália Negra, teve dezenas de suspeitos e nunca foi resolvido.",
+  "busca": "noir city night",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f110",
+  "categoria": "Mistérios sem solução",
+  "titulo": "O mecanismo de Anticítera",
+  "texto": "Em 1901, mergulhadores acharam num naufrágio grego um mecanismo de engrenagens com cerca de 2 mil anos. Ele calculava o movimento dos astros, como um computador antigo.",
+  "busca": "ancient bronze gears",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f111",
+  "categoria": "Mistérios sem solução",
+  "titulo": "O zumbido misterioso",
+  "texto": "Em várias cidades do mundo, pessoas relatam ouvir um zumbido grave e constante, que outros não ouvem. O fenômeno foi chamado de The Hum e não tem explicação única.",
+  "busca": "dark empty street",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f112",
+  "categoria": "Mistérios sem solução",
+  "titulo": "As luzes de Hessdalen",
+  "texto": "No vale de Hessdalen, na Noruega, luzes brilhantes aparecem no céu e flutuam por minutos. Cientistas estudam o fenômeno há décadas, sem uma explicação definitiva.",
+  "busca": "night sky lights valley",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f113",
+  "categoria": "Mistérios sem solução",
+  "titulo": "O explorador Percy Fawcett",
+  "texto": "Em 1925, o explorador britânico Percy Fawcett entrou na Amazônia brasileira atrás de uma cidade perdida. Ele, o filho e um amigo nunca mais foram vistos.",
+  "busca": "amazon jungle fog",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f114",
+  "categoria": "Mistérios sem solução",
+  "titulo": "A ilha do tesouro",
+  "texto": "Desde o fim do século 18, caçadores de tesouro cavam um poço na ilha Oak, no Canadá. Muitos morreram ou faliram tentando, e o tesouro nunca apareceu.",
+  "busca": "island forest fog",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f115",
+  "categoria": "Mistérios sem solução",
+  "titulo": "Kaspar Hauser",
+  "texto": "Em 1828, um adolescente apareceu em Nuremberg dizendo ter crescido trancado num quarto escuro. Anos depois, foi esfaqueado. A origem dele nunca foi esclarecida.",
+  "busca": "dark old room candle",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f116",
+  "categoria": "Mistérios sem solução",
+  "titulo": "As crianças verdes",
+  "texto": "Um registro medieval inglês conta que duas crianças de pele verde apareceram na vila de Woolpit, falando uma língua desconhecida. A história nunca foi explicada.",
+  "busca": "medieval village fog",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f117",
+  "categoria": "Mistérios sem solução",
+  "titulo": "Os príncipes da torre",
+  "texto": "Em 1483, dois jovens príncipes ingleses foram levados para a Torre de Londres e nunca mais foram vistos. O que aconteceu com eles é um mistério até hoje.",
+  "busca": "medieval tower night",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f118",
+  "categoria": "Mistérios sem solução",
+  "titulo": "A escrita rongorongo",
+  "texto": "Na Ilha de Páscoa foram encontradas tábuas de madeira com uma escrita chamada rongorongo. Ninguém conseguiu decifrar o que elas dizem.",
+  "busca": "easter island statues",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f119",
+  "categoria": "Mistérios sem solução",
+  "titulo": "A escrita Linear A",
+  "texto": "A civilização minoica, em Creta, deixou textos numa escrita chamada Linear A. Mesmo depois de mais de cem anos de estudo, ela continua indecifrável.",
+  "busca": "ancient stone tablet",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f120",
+  "categoria": "Mistérios sem solução",
+  "titulo": "O navio USS Cyclops",
+  "texto": "Em 1918, o navio americano USS Cyclops sumiu na região das Bermudas com mais de 300 pessoas a bordo. Nenhum destroço e nenhum pedido de socorro.",
+  "busca": "warship ocean storm",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f121",
+  "categoria": "Mistérios sem solução",
+  "titulo": "A mulher de Isdal",
+  "texto": "Em 1970, uma mulher foi achada morta num vale da Noruega. Ela tinha vários passaportes falsos e as etiquetas das roupas arrancadas. Ninguém sabe quem ela era.",
+  "busca": "norway valley fog",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f122",
+  "categoria": "Mistérios sem solução",
+  "titulo": "A explosão de Tunguska",
+  "texto": "Em 1908, uma explosão derrubou cerca de 80 milhões de árvores na Sibéria. Não deixou cratera. A explicação mais aceita é um meteoro que explodiu no ar.",
+  "busca": "siberia forest",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f123",
+  "categoria": "Mistérios sem solução",
+  "titulo": "Göbekli Tepe",
+  "texto": "Na Turquia existe um templo de pedra com cerca de 11 mil anos, mais antigo que a agricultura. Como caçadores conseguiram construí-lo ainda intriga os cientistas.",
+  "busca": "ancient stone pillars",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f124",
+  "categoria": "Mistérios sem solução",
+  "titulo": "Jimmy Hoffa",
+  "texto": "Em 1975, o sindicalista americano Jimmy Hoffa saiu para um encontro num restaurante e desapareceu. O corpo dele nunca foi encontrado.",
+  "busca": "parking lot night",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f125",
+  "categoria": "Mistérios sem solução",
+  "titulo": "O barco Kaz II",
+  "texto": "Em 2007, o barco Kaz II foi achado à deriva na Austrália, com o motor ligado, um computador aberto e comida na mesa. Os três tripulantes tinham sumido.",
+  "busca": "boat ocean drift",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f126",
+  "categoria": "Mistérios sem solução",
+  "titulo": "A fazenda Hinterkaifeck",
+  "texto": "Em 1922, seis pessoas foram mortas numa fazenda na Alemanha. Dias antes, o dono tinha visto pegadas na neve chegando à casa, mas nenhuma saindo. O caso nunca foi resolvido.",
+  "busca": "snow farm night",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f127",
+  "categoria": "Mistérios sem solução",
+  "titulo": "Os crimes de Villisca",
+  "texto": "Em 1912, oito pessoas foram mortas dentro de uma casa na cidade de Villisca, nos Estados Unidos. O assassino nunca foi identificado.",
+  "busca": "old house night",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f128",
+  "categoria": "Mistérios sem solução",
+  "titulo": "O pioneiro do cinema",
+  "texto": "Em 1890, Louis Le Prince, um dos inventores do cinema, embarcou num trem na França e nunca chegou ao destino. Nem ele, nem a bagagem foram encontrados.",
+  "busca": "old train station",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f129",
+  "categoria": "Mistérios sem solução",
+  "titulo": "O sumiço de Glenn Miller",
+  "texto": "Em 1944, o famoso líder de banda Glenn Miller embarcou num avião sobre o Canal da Mancha. O avião desapareceu e nunca foi encontrado.",
+  "busca": "old plane fog",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f130",
+  "categoria": "Mistérios sem solução",
+  "titulo": "O piloto Frederick Valentich",
+  "texto": "Em 1978, o jovem piloto Frederick Valentich avisou pelo rádio que um objeto estranho voava sobre ele, na Austrália. Depois, um ruído metálico. Ele nunca foi achado.",
+  "busca": "small plane night sky",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f131",
+  "categoria": "Mistérios sem solução",
+  "titulo": "O navio Waratah",
+  "texto": "Em 1909, o navio Waratah, com 211 pessoas a bordo, sumiu na costa da África do Sul. Apesar de anos de buscas, nunca acharam vestígios.",
+  "busca": "ocean storm ship",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f132",
+  "categoria": "Mistérios sem solução",
+  "titulo": "A expedição Franklin",
+  "texto": "Em 1845, dois navios britânicos partiram para o Ártico com 129 homens. Ninguém voltou. Os navios só foram encontrados no fundo do mar mais de 160 anos depois.",
+  "busca": "arctic ice ship",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f133",
+  "categoria": "Mistérios sem solução",
+  "titulo": "As cifras de Beale",
+  "texto": "Em 1885, um folheto falava de um tesouro enterrado nos Estados Unidos, descrito em três mensagens cifradas. Só uma foi decifrada. O tesouro nunca apareceu.",
+  "busca": "old map treasure",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f134",
+  "categoria": "Mistérios sem solução",
+  "titulo": "O código Dorabella",
+  "texto": "Em 1897, o compositor Edward Elgar mandou a uma amiga uma carta em código. Mais de um século depois, ninguém conseguiu decifrá-la.",
+  "busca": "old letter candle",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f135",
+  "categoria": "Mistérios sem solução",
+  "titulo": "A inscrição de Shugborough",
+  "texto": "Num monumento do século 18, na Inglaterra, há uma sequência de letras gravadas que ninguém conseguiu decifrar, nem especialistas em códigos.",
+  "busca": "old stone monument",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f136",
+  "categoria": "Mistérios sem solução",
+  "titulo": "Os aviões Star Tiger e Star Ariel",
+  "texto": "Em 1948 e 1949, dois aviões de passageiros da mesma empresa sumiram perto das Bermudas. Nenhum dos dois enviou pedido de socorro.",
+  "busca": "airplane clouds dark",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f137",
+  "categoria": "Mistérios sem solução",
+  "titulo": "O som Upsweep",
+  "texto": "Em 1991, microfones submarinos captaram um som que subia de tom e se repetia no Pacífico. A origem exata nunca foi confirmada.",
+  "busca": "deep ocean dark",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f138",
+  "categoria": "Mistérios sem solução",
+  "titulo": "Os estrondos misteriosos",
+  "texto": "Em várias costas do mundo, moradores ouvem estrondos parecidos com tiros de canhão, sem causa aparente. O fenômeno ainda não tem explicação definitiva.",
+  "busca": "coast night storm",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f139",
+  "categoria": "Mistérios sem solução",
+  "titulo": "As bolas de fogo",
+  "texto": "Há séculos, pessoas relatam esferas brilhantes que surgem durante tempestades e flutuam pelo ar. Os raios globulares ainda não são totalmente entendidos pela ciência.",
+  "busca": "lightning storm night",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f140",
+  "categoria": "Mistérios sem solução",
+  "titulo": "O menino selvagem",
+  "texto": "Por volta de 1800, um menino que vivia sozinho na floresta foi encontrado na França. Ele não falava, e nunca se soube como foi parar lá.",
+  "busca": "dark forest fog",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f141",
+  "categoria": "Mistérios sem solução",
+  "titulo": "O sumiço de Jim Thompson",
+  "texto": "Em 1967, o empresário Jim Thompson saiu para uma caminhada nas montanhas da Malásia e nunca voltou. Buscas enormes não encontraram nenhuma pista.",
+  "busca": "jungle mountains fog",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f142",
+  "categoria": "Mistérios sem solução",
+  "titulo": "George Mallory no Everest",
+  "texto": "Em 1924, George Mallory tentou chegar ao topo do Everest e desapareceu. O corpo dele foi encontrado em 1999. Se ele chegou ao cume, ninguém sabe.",
+  "busca": "everest snow storm",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f143",
+  "categoria": "Mistérios sem solução",
+  "titulo": "O Triângulo das Bermudas",
+  "texto": "O Triângulo das Bermudas ficou famoso por sumiços de navios e aviões. Estudos dizem que ali não somem mais embarcações do que em outras áreas muito movimentadas.",
+  "busca": "ocean storm dark",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f144",
+  "categoria": "Mistérios sem solução",
+  "titulo": "O ruído Bloop",
+  "texto": "Em 1997, um som extremamente forte foi captado no oceano Pacífico e ganhou o nome de Bloop. Anos depois, cientistas o ligaram a enormes blocos de gelo se rompendo.",
+  "busca": "underwater dark",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f145",
+  "categoria": "Mistérios sem solução",
+  "titulo": "As pedras que andam",
+  "texto": "No Vale da Morte, nos Estados Unidos, pedras deixavam trilhas no chão, como se andassem. Só em 2014 cientistas filmaram a causa: finas placas de gelo empurradas pelo vento.",
+  "busca": "desert stones",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f146",
+  "categoria": "Mistérios sem solução",
+  "titulo": "A Colônia de Roanoke",
+  "texto": "A única pista deixada pelos colonos de Roanoke foi a palavra Croatoan entalhada num poste. Até hoje, pesquisadores discutem se eles se mudaram ou morreram.",
+  "busca": "dark forest carved wood",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f147",
+  "categoria": "Mistérios sem solução",
+  "titulo": "A Vila de Anjikuni",
+  "texto": "Uma história famosa diz que uma vila inteira desapareceu no Canadá em 1930. Pesquisadores nunca encontraram registros que confirmem isso, e a polícia diz que é lenda.",
+  "busca": "snow village",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f148",
+  "categoria": "Mistérios sem solução",
+  "titulo": "O sumiço de Ambrose Bierce",
+  "texto": "Em 1913, o escritor americano Ambrose Bierce viajou ao México durante a revolução. Ele mandou uma última carta e desapareceu para sempre.",
+  "busca": "desert road dusk",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f149",
+  "categoria": "Mistérios sem solução",
+  "titulo": "As luzes de Marfa",
+  "texto": "Perto da cidade de Marfa, no Texas, luzes misteriosas aparecem no horizonte à noite. Estudos ligaram parte delas a faróis de carros, mas não todas.",
+  "busca": "desert night lights",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f150",
+  "categoria": "Mistérios sem solução",
+  "titulo": "O sinal da Ilha de Páscoa",
+  "texto": "As estátuas da Ilha de Páscoa pesam várias toneladas. Como os moradores as moveram por quilômetros sem rodas, foi um mistério por séculos e ainda gera debate.",
+  "busca": "easter island moai",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f151",
+  "categoria": "Mistérios sem solução",
+  "titulo": "O desaparecimento do Kobenhavn",
+  "texto": "Em 1928, o veleiro dinamarquês Kobenhavn, um dos maiores do mundo, partiu da Argentina com dezenas de pessoas a bordo. Ele nunca chegou ao destino.",
+  "busca": "tall ship storm",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f152",
+  "categoria": "Mistérios sem solução",
+  "titulo": "A carta do assassino",
+  "texto": "Uma das cifras enviadas pelo assassino do Zodíaco ficou sem solução por 51 anos, até ser decifrada em 2020 por amadores. A identidade dele continua desconhecida.",
+  "busca": "code letter dark",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f153",
+  "categoria": "Mistérios sem solução",
+  "titulo": "O mistério do Ourang Medan",
+  "texto": "Uma história conta que, em 1947, um navio foi achado com a tripulação morta e expressões de pavor. Nunca acharam registros oficiais de que o navio existiu.",
+  "busca": "ghost ship fog",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f154",
+  "categoria": "Mistérios sem solução",
+  "titulo": "O desaparecimento do Joyita",
+  "texto": "Em 1955, o barco Joyita foi achado à deriva no Pacífico, sem nenhuma das 25 pessoas a bordo. O que aconteceu com elas nunca foi descoberto.",
+  "busca": "boat ocean fog",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f155",
+  "categoria": "Mistérios sem solução",
+  "titulo": "A Pedra de Dighton",
+  "texto": "Às margens de um rio nos Estados Unidos há uma rocha coberta de inscrições antigas. Já foram atribuídas a indígenas, vikings e até portugueses. Ninguém tem certeza.",
+  "busca": "carved rock river",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f156",
+  "categoria": "Mistérios sem solução",
+  "titulo": "A tumba de Gengis Khan",
+  "texto": "Gengis Khan morreu em 1227, e o local do túmulo dele foi mantido em segredo. Apesar de muitas buscas, ele nunca foi encontrado.",
+  "busca": "mongolia steppe",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f157",
+  "categoria": "Mistérios sem solução",
+  "titulo": "A cidade de Atlântida",
+  "texto": "O filósofo Platão descreveu uma ilha poderosa chamada Atlântida, que afundou num dia. Nunca foi encontrada, e a maioria dos estudiosos acha que é uma história inventada.",
+  "busca": "underwater ruins",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f158",
+  "categoria": "Mistérios sem solução",
+  "titulo": "O exército de Cambises",
+  "texto": "Segundo o historiador Heródoto, um exército persa de 50 mil soldados desapareceu numa tempestade de areia no deserto do Egito. Ele nunca foi encontrado.",
+  "busca": "desert sandstorm",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f159",
+  "categoria": "Ciência sombria",
+  "titulo": "O estudo de Tuskegee",
+  "texto": "De 1932 a 1972, o governo americano acompanhou centenas de homens negros com sífilis sem tratá-los, mesmo depois que a penicilina virou a cura. Eles não sabiam do estudo.",
+  "busca": "old hospital dark",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f160",
+  "categoria": "Ciência sombria",
+  "titulo": "O projeto MKUltra",
+  "texto": "Nas décadas de 1950 e 1960, a CIA realizou experimentos secretos de controle da mente, inclusive dando LSD a pessoas sem que elas soubessem.",
+  "busca": "dark laboratory",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f161",
+  "categoria": "Ciência sombria",
+  "titulo": "O pequeno Albert",
+  "texto": "Em 1920, pesquisadores ensinaram um bebê a ter medo de um rato branco, fazendo um barulho assustador toda vez que ele tocava no animal. O medo se espalhou para outras coisas peludas.",
+  "busca": "old black white lab",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f162",
+  "categoria": "Ciência sombria",
+  "titulo": "O Universo 25",
+  "texto": "Em 1968, um cientista criou um paraíso para ratos, com comida e água sem fim. A população cresceu, depois o comportamento colapsou, e a colônia acabou morrendo.",
+  "busca": "mice cage",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f163",
+  "categoria": "Ciência sombria",
+  "titulo": "A barra na cabeça",
+  "texto": "Em 1848, uma barra de ferro atravessou o crânio do operário Phineas Gage. Ele sobreviveu, mas os amigos diziam que a personalidade dele tinha mudado.",
+  "busca": "old railroad",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f164",
+  "categoria": "Ciência sombria",
+  "titulo": "As células de Henrietta",
+  "texto": "Em 1951, células do tumor de Henrietta Lacks foram retiradas sem o consentimento dela. Elas nunca pararam de se multiplicar e são usadas em pesquisas até hoje.",
+  "busca": "microscope cells",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f165",
+  "categoria": "Ciência sombria",
+  "titulo": "A elefanta Topsy",
+  "texto": "Em 1903, numa atração em Nova York, a elefanta Topsy foi executada com eletricidade diante de uma plateia. A cena foi filmada.",
+  "busca": "old circus",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f166",
+  "categoria": "Ciência sombria",
+  "titulo": "Os cães de duas cabeças",
+  "texto": "Nos anos 1950, um cirurgião soviético enxertou a cabeça de um filhote em outro cão, criando cães de duas cabeças. Eles viveram poucos dias.",
+  "busca": "old soviet lab",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f167",
+  "categoria": "Ciência sombria",
+  "titulo": "A cadela Laika",
+  "texto": "Em 1957, a cadela Laika foi o primeiro animal a orbitar a Terra. A missão não tinha previsão de volta, e ela morreu no espaço poucas horas depois do lançamento.",
+  "busca": "space earth orbit",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f168",
+  "categoria": "Ciência sombria",
+  "titulo": "Os cadernos radioativos",
+  "texto": "Os cadernos de laboratório de Marie Curie ainda são radioativos, mais de cem anos depois. Para consultá-los, é preciso usar roupas de proteção.",
+  "busca": "old notebook lab",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f169",
+  "categoria": "Ciência sombria",
+  "titulo": "A pata de elefante",
+  "texto": "Embaixo do reator de Chernobyl existe uma massa de material derretido chamada pata de elefante. Logo após o acidente, ficar perto dela por minutos podia ser fatal.",
+  "busca": "radiation warning dark",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f170",
+  "categoria": "Ciência sombria",
+  "titulo": "O césio de Goiânia",
+  "texto": "Em 1987, catadores abriram um aparelho de radioterapia abandonado em Goiânia. O pó azul que brilhava no escuro era césio-137, e quatro pessoas morreram.",
+  "busca": "blue glow dark",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f171",
+  "categoria": "Ciência sombria",
+  "titulo": "O acidente de Chernobyl",
+  "texto": "Em 1986, um reator da usina de Chernobyl explodiu durante um teste. A nuvem radioativa se espalhou pela Europa, e uma área enorme foi evacuada.",
+  "busca": "nuclear plant",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f172",
+  "categoria": "Ciência sombria",
+  "titulo": "O veneno do baiacu",
+  "texto": "O baiacu carrega tetrodotoxina, um veneno muito mais potente que o cianeto. No Japão, só cozinheiros com licença especial podem preparar o peixe.",
+  "busca": "puffer fish",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f173",
+  "categoria": "Ciência sombria",
+  "titulo": "O parasita da coragem",
+  "texto": "O parasita Toxoplasma faz ratos infectados perderem o medo do cheiro de gato. Assim, o rato é comido, e o parasita chega ao gato, onde se reproduz.",
+  "busca": "rat dark",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f174",
+  "categoria": "Ciência sombria",
+  "titulo": "O verme do caracol",
+  "texto": "Um verme parasita invade os olhos de caracóis e faz eles pulsarem com cores vivas. Pássaros confundem com lagartas, comem, e o verme completa o ciclo.",
+  "busca": "snail macro",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f175",
+  "categoria": "Ciência sombria",
+  "titulo": "O piolho da língua",
+  "texto": "Um pequeno crustáceo entra na boca de peixes, destrói a língua deles e passa a viver no lugar dela, funcionando como uma língua.",
+  "busca": "fish mouth underwater",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f176",
+  "categoria": "Ciência sombria",
+  "titulo": "A vespa das baratas",
+  "texto": "A vespa-esmeralda pica o cérebro de uma barata e a transforma num zumbi obediente. Depois, leva a barata pela antena até o ninho, como um cachorro na coleira.",
+  "busca": "wasp macro",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f177",
+  "categoria": "Ciência sombria",
+  "titulo": "A rã que congela",
+  "texto": "A rã-da-madeira, da América do Norte, pode congelar quase inteira no inverno. O coração para de bater. Na primavera, ela descongela e volta a viver.",
+  "busca": "frozen forest",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f178",
+  "categoria": "Ciência sombria",
+  "titulo": "O peixe da gosma",
+  "texto": "O peixe-bruxa solta litros de gosma em segundos quando é atacado. A gosma entope as guelras dos predadores e o deixa escapar.",
+  "busca": "deep sea creature",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f179",
+  "categoria": "Ciência sombria",
+  "titulo": "Os olhos da lula colossal",
+  "texto": "A lula colossal tem os maiores olhos do reino animal, do tamanho de um prato. Ela vive nas águas escuras e profundas perto da Antártida.",
+  "busca": "giant squid deep",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f180",
+  "categoria": "Ciência sombria",
+  "titulo": "O casamento do peixe-diabo",
+  "texto": "Em algumas espécies de peixe-diabo, o macho morde a fêmea e se funde ao corpo dela, compartilhando o sangue. Ele vira pouco mais que um órgão.",
+  "busca": "anglerfish deep sea",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f181",
+  "categoria": "Ciência sombria",
+  "titulo": "O tubarão de 400 anos",
+  "texto": "O tubarão-da-Groenlândia é o vertebrado que mais vive. Cientistas estimam que alguns tenham cerca de 400 anos, nascidos antes da independência do Brasil.",
+  "busca": "greenland shark ice",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f182",
+  "categoria": "Ciência sombria",
+  "titulo": "As ondas monstro",
+  "texto": "Por séculos, marinheiros falavam de ondas gigantes que surgiam do nada. Em 1995, uma plataforma de petróleo no Mar do Norte registrou uma onda de cerca de 26 metros.",
+  "busca": "giant wave storm",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f183",
+  "categoria": "Ciência sombria",
+  "titulo": "Mais quente que o Sol",
+  "texto": "Um raio pode aquecer o ar a uma temperatura cerca de cinco vezes maior que a da superfície do Sol, tudo em uma fração de segundo.",
+  "busca": "lightning strike",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f184",
+  "categoria": "Ciência sombria",
+  "titulo": "A doença do riso",
+  "texto": "Em Papua-Nova Guiné, o povo Fore sofreu com o kuru, uma doença que causava tremores e risos involuntários. Ela era transmitida em rituais funerários.",
+  "busca": "jungle mist",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f185",
+  "categoria": "Ciência sombria",
+  "titulo": "A raiva",
+  "texto": "Depois que os sintomas aparecem, a raiva é quase sempre fatal. Por isso, a vacina precisa ser tomada logo depois da mordida, antes de qualquer sinal da doença.",
+  "busca": "dog dark",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f186",
+  "categoria": "Ciência sombria",
+  "titulo": "O corpo que vira osso",
+  "texto": "Na doença rara chamada FOP, músculos e tendões se transformam aos poucos em osso. Com o tempo, a pessoa fica presa num segundo esqueleto.",
+  "busca": "skeleton x ray",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f187",
+  "categoria": "Ciência sombria",
+  "titulo": "A síndrome do morto-vivo",
+  "texto": "Na síndrome de Cotard, a pessoa acredita que está morta, que não existe ou que os órgãos dela apodreceram. É um distúrbio raro e real.",
+  "busca": "dark mirror",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f188",
+  "categoria": "Ciência sombria",
+  "titulo": "A paralisia do sono",
+  "texto": "Na paralisia do sono, a pessoa acorda sem conseguir se mexer. Muitas sentem uma presença no quarto. É o cérebro acordando antes do corpo.",
+  "busca": "dark bedroom",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f189",
+  "categoria": "Ciência sombria",
+  "titulo": "A mão rebelde",
+  "texto": "Na síndrome da mão alheia, a mão de uma pessoa age sozinha, como se tivesse vontade própria. Ela pode até tentar tirar o que a outra mão está segurando.",
+  "busca": "hand shadow",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f190",
+  "categoria": "Ciência sombria",
+  "titulo": "A bactéria que devora",
+  "texto": "A fasciite necrosante é uma infecção rara que destrói a carne muito rápido. Ela exige cirurgia urgente, e cada hora faz diferença.",
+  "busca": "hospital emergency",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f191",
+  "categoria": "Ciência sombria",
+  "titulo": "A ameba do cérebro",
+  "texto": "A ameba Naegleria fowleri vive em água doce morna. Se entra pelo nariz, pode chegar ao cérebro e causar uma infecção quase sempre fatal. Felizmente, é raríssima.",
+  "busca": "warm lake",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f192",
+  "categoria": "Ciência sombria",
+  "titulo": "Espaguetificação",
+  "texto": "Se alguém caísse num buraco negro, a gravidade puxaria os pés muito mais forte que a cabeça. O corpo seria esticado como espaguete.",
+  "busca": "black hole space",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f193",
+  "categoria": "Ciência sombria",
+  "titulo": "Uma colher de estrela",
+  "texto": "Uma estrela de nêutrons é tão densa que uma colher de chá do material dela pesaria cerca de 1 bilhão de toneladas na Terra.",
+  "busca": "neutron star space",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f194",
+  "categoria": "Ciência sombria",
+  "titulo": "O fim do Sol",
+  "texto": "Daqui a cerca de 5 bilhões de anos, o Sol vai inchar e virar uma gigante vermelha. Mercúrio e Vênus serão engolidos, e a Terra talvez também.",
+  "busca": "red sun space",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f195",
+  "categoria": "Ciência sombria",
+  "titulo": "O asteroide dos dinossauros",
+  "texto": "Há cerca de 66 milhões de anos, um asteroide de uns 10 quilômetros caiu onde hoje é o México. A catástrofe acabou com os dinossauros não aviários.",
+  "busca": "asteroid impact",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f196",
+  "categoria": "Ciência sombria",
+  "titulo": "A grande morte",
+  "texto": "Há cerca de 252 milhões de anos, a maior extinção da história eliminou perto de 90 por cento das espécies marinhas. Ela foi ligada a erupções vulcânicas gigantes.",
+  "busca": "volcanic landscape",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f197",
+  "categoria": "Ciência sombria",
+  "titulo": "O megalodonte",
+  "texto": "O megalodonte foi um tubarão que podia passar de 15 metros. Ele dominou os mares por milhões de anos e foi extinto há cerca de 3 milhões de anos.",
+  "busca": "shark deep dark",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f198",
+  "categoria": "Ciência sombria",
+  "titulo": "O lago mais poluído",
+  "texto": "O lago Karachay, na Rússia, recebeu lixo nuclear por anos. Ficar uma hora na margem dele já foi considerado o suficiente para matar uma pessoa.",
+  "busca": "polluted lake",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f199",
+  "categoria": "Ciência sombria",
+  "titulo": "O atol dos testes",
+  "texto": "Os Estados Unidos fizeram dezenas de testes nucleares no atol de Bikini, no Pacífico. Os moradores foram retirados, e muitos nunca puderam voltar.",
+  "busca": "nuclear explosion",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f200",
+  "categoria": "Ciência sombria",
+  "titulo": "A formiga-bala",
+  "texto": "A picada da formiga-bala é considerada uma das mais dolorosas do mundo. A dor é comparada a um tiro e pode durar um dia inteiro.",
+  "busca": "ant macro",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f201",
+  "categoria": "Ciência sombria",
+  "titulo": "O polvo de anéis azuis",
+  "texto": "O pequeno polvo de anéis azuis, da Austrália, tem veneno suficiente para matar adultos. Não existe antídoto: a vítima precisa de respiração artificial até o veneno passar.",
+  "busca": "octopus blue rings",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f202",
+  "categoria": "Ciência sombria",
+  "titulo": "A vespa-do-mar",
+  "texto": "A água-viva-de-caixa, chamada vespa-do-mar, tem um dos venenos mais rápidos da natureza. Ela é quase transparente e difícil de ver na água.",
+  "busca": "box jellyfish",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f203",
+  "categoria": "Ciência sombria",
+  "titulo": "O cérebro faminto",
+  "texto": "O cérebro representa cerca de 2 por cento do peso do corpo, mas consome cerca de 20 por cento de toda a energia que gastamos.",
+  "busca": "brain neurons",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f204",
+  "categoria": "Ciência sombria",
+  "titulo": "A fazenda de corpos",
+  "texto": "Desde 1981, uma universidade nos Estados Unidos deixa corpos doados ao ar livre para estudar como eles se decompõem. Isso ajuda a polícia a resolver crimes.",
+  "busca": "forest dark ground",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f205",
+  "categoria": "Ciência sombria",
+  "titulo": "O som que assusta",
+  "texto": "Infrassons, graves demais para ouvir, podem causar ansiedade e sensação de presença. Um pesquisador ligou um fantasma de laboratório a uma vibração de 19 hertz.",
+  "busca": "dark corridor",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f206",
+  "categoria": "Ciência sombria",
+  "titulo": "Dormindo de olhos abertos",
+  "texto": "Golfinhos dormem com metade do cérebro de cada vez. Enquanto um lado descansa, o outro mantém o animal respirando e atento a predadores.",
+  "busca": "dolphin underwater",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f207",
+  "categoria": "Ciência sombria",
+  "titulo": "O mosquito assassino",
+  "texto": "O animal que mais mata humanos no mundo não é o tubarão nem a cobra. É o mosquito, que transmite doenças como a malária.",
+  "busca": "mosquito macro",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f208",
+  "categoria": "Ciência sombria",
+  "titulo": "A cobra mais venenosa",
+  "texto": "A taipan-do-interior, da Austrália, tem o veneno mais potente entre as cobras terrestres. Por sorte, ela é tímida e vive em áreas quase desertas.",
+  "busca": "snake desert",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f209",
+  "categoria": "Ciência sombria",
+  "titulo": "O peixe da lama",
+  "texto": "O peixe-pulmonado consegue sobreviver anos enterrado na lama seca, respirando ar, até a chuva voltar.",
+  "busca": "dry mud cracks",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f210",
+  "categoria": "Ciência sombria",
+  "titulo": "O fungo que brilha",
+  "texto": "Existem cogumelos que brilham no escuro, em tons de verde. Esse brilho, chamado bioluminescência, pode atrair insetos que espalham os esporos.",
+  "busca": "glowing mushrooms",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f211",
+  "categoria": "Ciência sombria",
+  "titulo": "A planta cadáver",
+  "texto": "A flor-cadáver, da Indonésia, é uma das maiores flores do mundo e solta cheiro de carne podre para atrair moscas.",
+  "busca": "giant flower jungle",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f212",
+  "categoria": "Ciência sombria",
+  "titulo": "A árvore da morte",
+  "texto": "A mancenilheira, do Caribe, é considerada uma das árvores mais perigosas do mundo. Até ficar embaixo dela na chuva pode irritar a pele.",
+  "busca": "tropical tree rain",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f213",
+  "categoria": "Ciência sombria",
+  "titulo": "O sapo venenoso",
+  "texto": "O sapo-dourado-venenoso, da Colômbia, tem veneno suficiente para matar várias pessoas. Indígenas usavam o veneno nas pontas de dardos.",
+  "busca": "poison dart frog",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f214",
+  "categoria": "Ciência sombria",
+  "titulo": "As formigas-de-fogo",
+  "texto": "Formigas-de-fogo conseguem se agarrar umas às outras e formar uma jangada viva, que flutua na água durante enchentes.",
+  "busca": "fire ants macro",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f215",
+  "categoria": "Ciência sombria",
+  "titulo": "O homem que não sente dor",
+  "texto": "Existe uma condição genética rara em que a pessoa não sente dor. Parece um superpoder, mas é perigoso: ela pode se ferir gravemente sem perceber.",
+  "busca": "hospital light",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f216",
+  "categoria": "Ciência sombria",
+  "titulo": "A morte do cérebro em minutos",
+  "texto": "Sem oxigênio, as células do cérebro começam a morrer em poucos minutos. Por isso, nos primeiros socorros, cada segundo de massagem cardíaca conta.",
+  "busca": "heartbeat monitor",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f217",
+  "categoria": "Ciência sombria",
+  "titulo": "O planeta de ferro derretido",
+  "texto": "Os cientistas estimam que o centro da Terra seja tão quente quanto a superfície do Sol, passando de 5 mil graus.",
+  "busca": "earth core lava",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f218",
+  "categoria": "Lugares proibidos",
+  "titulo": "As múmias de Palermo",
+  "texto": "Nas catacumbas dos Capuchinhos, em Palermo, na Itália, cerca de 8 mil corpos mumificados estão pendurados nas paredes e deitados em nichos, ainda com as roupas da época.",
+  "busca": "catacombs corridor",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f219",
+  "categoria": "Lugares proibidos",
+  "titulo": "A igreja dos ossos",
+  "texto": "O ossuário de Sedlec, na República Tcheca, é decorado com os ossos de dezenas de milhares de pessoas. Até o lustre é feito de ossos humanos.",
+  "busca": "bones chapel",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f220",
+  "categoria": "Lugares proibidos",
+  "titulo": "A prisão de Alcatraz",
+  "texto": "Alcatraz, numa ilha da baía de São Francisco, foi uma prisão federal de segurança máxima de 1934 a 1963. As águas geladas e as correntes tornavam a fuga quase impossível.",
+  "busca": "island prison fog",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f221",
+  "categoria": "Lugares proibidos",
+  "titulo": "A vila que desmoronou",
+  "texto": "Craco, no sul da Itália, foi construída no alto de um morro. Deslizamentos de terra forçaram os moradores a sair, e a vila medieval ficou vazia.",
+  "busca": "abandoned hill town",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f222",
+  "categoria": "Lugares proibidos",
+  "titulo": "A cidade engolida pela areia",
+  "texto": "Kolmanskop, na Namíbia, era uma cidade rica de mineração de diamantes. Abandonada, hoje tem casas cheias de areia até a metade dos cômodos.",
+  "busca": "sand filled house",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f223",
+  "categoria": "Lugares proibidos",
+  "titulo": "A cidade do ouro",
+  "texto": "Bodie, na Califórnia, foi uma cidade da corrida do ouro que chegou a ter milhares de moradores. Hoje, as casas estão vazias, com móveis e objetos ainda dentro.",
+  "busca": "ghost town desert",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f224",
+  "categoria": "Lugares proibidos",
+  "titulo": "A vila mártir",
+  "texto": "Em 1944, a vila de Oradour-sur-Glane, na França, foi destruída por tropas nazistas, e 643 pessoas foram mortas. As ruínas foram mantidas intactas como memorial.",
+  "busca": "ruined village",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f225",
+  "categoria": "Lugares proibidos",
+  "titulo": "A zona vermelha",
+  "texto": "Depois da Primeira Guerra, partes do norte da França ficaram tão cheias de explosivos e veneno que foram isoladas. Algumas áreas continuam proibidas até hoje.",
+  "busca": "foggy battlefield forest",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f226",
+  "categoria": "Lugares proibidos",
+  "titulo": "A ilha do antraz",
+  "texto": "Em 1942, cientistas britânicos testaram antraz na ilha de Gruinard, na Escócia. A ilha ficou em quarentena por quase 50 anos, até ser descontaminada.",
+  "busca": "scottish island fog",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f227",
+  "categoria": "Lugares proibidos",
+  "titulo": "O lago que petrifica",
+  "texto": "O lago Natron, na Tanzânia, tem água muito alcalina. Animais que morrem ali podem ficar com o corpo calcificado, parecendo estátuas.",
+  "busca": "red lake africa",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f228",
+  "categoria": "Lugares proibidos",
+  "titulo": "O lugar mais quente",
+  "texto": "A Depressão de Danakil, na Etiópia, é um dos lugares mais quentes e hostis do planeta, com lagos ácidos, gases tóxicos e chão amarelo de enxofre.",
+  "busca": "volcanic desert yellow",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f229",
+  "categoria": "Lugares proibidos",
+  "titulo": "O Vale da Morte",
+  "texto": "Em 1913, o Vale da Morte, nos Estados Unidos, registrou 56,7 graus, a temperatura do ar mais alta já medida na Terra.",
+  "busca": "death valley desert",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f230",
+  "categoria": "Lugares proibidos",
+  "titulo": "O cofre do fim do mundo",
+  "texto": "Em Svalbard, perto do Polo Norte, um cofre escavado na montanha guarda sementes de mais de um milhão de amostras de plantas do mundo, para o caso de uma catástrofe.",
+  "busca": "arctic mountain snow",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f231",
+  "categoria": "Lugares proibidos",
+  "titulo": "A caverna fechada",
+  "texto": "A caverna de Lascaux, na França, tem pinturas com cerca de 17 mil anos. Ela foi fechada ao público em 1963, porque a respiração dos visitantes estava destruindo as pinturas.",
+  "busca": "cave paintings dark",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f232",
+  "categoria": "Lugares proibidos",
+  "titulo": "A tumba do imperador",
+  "texto": "O túmulo do primeiro imperador da China nunca foi aberto. Relatos antigos falam de rios de mercúrio lá dentro, e o solo ao redor tem mercúrio acima do normal.",
+  "busca": "terracotta army",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f233",
+  "categoria": "Lugares proibidos",
+  "titulo": "A ilha da Maria Tifoide",
+  "texto": "A ilha North Brother, em Nova York, abrigou um hospital de isolamento onde Maria Tifoide passou décadas. Hoje está abandonada e fechada ao público.",
+  "busca": "abandoned hospital island",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f234",
+  "categoria": "Lugares proibidos",
+  "titulo": "A roda-gigante de Pripyat",
+  "texto": "Em Pripyat, uma roda-gigante seria inaugurada dias depois do acidente de Chernobyl. A cidade foi evacuada antes, e ela virou símbolo do abandono.",
+  "busca": "abandoned ferris wheel",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f235",
+  "categoria": "Lugares proibidos",
+  "titulo": "A floresta vermelha",
+  "texto": "Depois do acidente de Chernobyl, os pinheiros perto da usina receberam tanta radiação que ficaram cor de ferrugem e morreram. O lugar ficou conhecido como Floresta Vermelha.",
+  "busca": "dead pine forest",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f236",
+  "categoria": "Lugares proibidos",
+  "titulo": "O hotel que nunca abriu",
+  "texto": "O Hotel Ryugyong, em Pyongyang, na Coreia do Norte, começou a ser construído em 1987. Décadas depois, a pirâmide gigante de 105 andares ainda não recebeu hóspedes.",
+  "busca": "pyramid skyscraper",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f237",
+  "categoria": "Lugares proibidos",
+  "titulo": "O hospital de Waverly Hills",
+  "texto": "O sanatório de Waverly Hills, nos Estados Unidos, tratava tuberculose no início do século 20. Abandonado, ficou famoso pelas histórias de fantasmas.",
+  "busca": "abandoned sanatorium",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f238",
+  "categoria": "Lugares proibidos",
+  "titulo": "A prisão do silêncio",
+  "texto": "A penitenciária Eastern State, aberta em 1829, nos Estados Unidos, deixava presos isolados em celas, em silêncio total. Hoje, o prédio em ruínas é visitado como museu.",
+  "busca": "prison corridor ruins",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f239",
+  "categoria": "Lugares proibidos",
+  "titulo": "A cidade murada",
+  "texto": "A Cidade Murada de Kowloon, em Hong Kong, chegou a ser um dos lugares mais densos do mundo, com dezenas de milhares de pessoas num só quarteirão. Foi demolida em 1993.",
+  "busca": "dense buildings night",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f240",
+  "categoria": "Lugares proibidos",
+  "titulo": "A ilha das valas",
+  "texto": "Na ilha Hart, em Nova York, foram enterradas mais de 1 milhão de pessoas, muitas sem família para reclamar o corpo, em valas comuns.",
+  "busca": "island cemetery fog",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f241",
+  "categoria": "Lugares proibidos",
+  "titulo": "A cidade subterrânea",
+  "texto": "Derinkuyu, na Turquia, é uma cidade escavada na rocha com vários andares subterrâneos. Ela podia abrigar milhares de pessoas, com animais e comida, durante ataques.",
+  "busca": "underground tunnels",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f242",
+  "categoria": "Lugares proibidos",
+  "titulo": "Os corvos da Torre",
+  "texto": "Uma lenda diz que, se os corvos deixarem a Torre de Londres, o reino vai cair. Por isso, a Torre mantém pelo menos seis corvos até hoje.",
+  "busca": "ravens tower",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f243",
+  "categoria": "Lugares proibidos",
+  "titulo": "A ilha de Clipperton",
+  "texto": "Em 1917, mulheres e crianças ficaram abandonadas na ilha de Clipperton, no Pacífico, sem navios de suprimento. Quando o resgate chegou, só restavam poucos sobreviventes.",
+  "busca": "remote island ocean",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f244",
+  "categoria": "Lugares proibidos",
+  "titulo": "A cidade soviética do Ártico",
+  "texto": "Pyramiden, em Svalbard, foi uma cidade mineira soviética abandonada em 1998. Os prédios, a piscina e até a estátua de Lênin continuam lá.",
+  "busca": "arctic ghost town",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f245",
+  "categoria": "Lugares proibidos",
+  "titulo": "A ilha das bonecas",
+  "texto": "Num canal de Xochimilco, no México, existe uma ilha cheia de bonecas velhas penduradas nas árvores. Muitas estão sem olhos ou sem braços.",
+  "busca": "creepy dolls",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f246",
+  "categoria": "Lugares proibidos",
+  "titulo": "A floresta assombrada",
+  "texto": "A floresta Hoia-Baciu, na Romênia, tem árvores retorcidas e é cercada de lendas de desaparecimentos e luzes estranhas.",
+  "busca": "twisted trees forest",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f247",
+  "categoria": "Lugares proibidos",
+  "titulo": "O mar que sumiu",
+  "texto": "O Mar de Aral, na Ásia Central, já foi um dos maiores lagos do mundo. Depois que os rios foram desviados, ele quase secou, e navios ficaram encalhados no deserto.",
+  "busca": "ship desert",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f248",
+  "categoria": "Lugares proibidos",
+  "titulo": "A zona de Fukushima",
+  "texto": "Depois do acidente nuclear de 2011, cidades ao redor da usina de Fukushima foram evacuadas. Algumas áreas continuam fechadas, com casas e lojas intocadas.",
+  "busca": "abandoned town japan",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f249",
+  "categoria": "Lugares proibidos",
+  "titulo": "A ilha recém-nascida",
+  "texto": "A ilha de Surtsey nasceu de uma erupção vulcânica no mar da Islândia, em 1963. Para estudar como a vida chega a uma terra nova, só cientistas podem pisar lá.",
+  "busca": "volcanic island ocean",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f250",
+  "categoria": "Lugares proibidos",
+  "titulo": "O arquivo do Vaticano",
+  "texto": "O Arquivo Apostólico do Vaticano guarda documentos de séculos de história da Igreja. O acesso é restrito a pesquisadores autorizados.",
+  "busca": "old library archive",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f251",
+  "categoria": "Lugares proibidos",
+  "titulo": "A cidade mais fria",
+  "texto": "Oymyakon, na Sibéria, é um dos lugares habitados mais frios do mundo. Ali, a temperatura já chegou a cerca de 67 graus negativos.",
+  "busca": "frozen village siberia",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f252",
+  "categoria": "Lugares proibidos",
+  "titulo": "O hospital abandonado",
+  "texto": "O complexo hospitalar de Beelitz-Heilstätten, na Alemanha, tratou soldados na Primeira Guerra. Abandonado, virou um cenário famoso de ruínas e corredores vazios.",
+  "busca": "abandoned hospital corridor",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f253",
+  "categoria": "Lugares proibidos",
+  "titulo": "A vila fantasma grega",
+  "texto": "Kayaköy, na Turquia, era uma vila de moradores gregos esvaziada em 1923, na troca de populações entre Grécia e Turquia. Centenas de casas de pedra continuam vazias.",
+  "busca": "stone ruins hill",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f254",
+  "categoria": "Lugares proibidos",
+  "titulo": "A cidade do salitre",
+  "texto": "Humberstone, no deserto do Atacama, no Chile, foi uma vila de mineração de salitre. Abandonada, hoje é patrimônio mundial, cercada pelo deserto mais seco do planeta.",
+  "busca": "atacama desert",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f255",
+  "categoria": "Lugares proibidos",
+  "titulo": "A cidade tóxica",
+  "texto": "Picher, nos Estados Unidos, ficou cercada por montanhas de resíduos de mineração com chumbo. A contaminação e um tornado esvaziaram a cidade.",
+  "busca": "toxic waste hills",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f256",
+  "categoria": "Lugares proibidos",
+  "titulo": "A cidade da dioxina",
+  "texto": "Em 1985, a cidade de Times Beach, nos Estados Unidos, foi totalmente evacuada. As ruas tinham sido borrifadas com óleo contaminado por dioxina, um veneno potente.",
+  "busca": "empty town road",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f257",
+  "categoria": "Lugares proibidos",
+  "titulo": "O canal do amor",
+  "texto": "Nos anos 1970, moradores do bairro de Love Canal, nos Estados Unidos, descobriram que viviam sobre um depósito de lixo químico. O bairro foi evacuado.",
+  "busca": "toxic barrels",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f258",
+  "categoria": "Lugares proibidos",
+  "titulo": "Os mortos do Everest",
+  "texto": "No Everest, muitos alpinistas que morreram continuam na montanha, porque é perigoso demais trazê-los de volta. Alguns corpos viraram pontos de referência.",
+  "busca": "everest snow climbers",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f259",
+  "categoria": "Lugares proibidos",
+  "titulo": "As catacumbas de Roma",
+  "texto": "Embaixo de Roma existem quilômetros de catacumbas, onde os primeiros cristãos enterravam seus mortos em nichos escavados na rocha.",
+  "busca": "catacombs rome",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f260",
+  "categoria": "Lugares proibidos",
+  "titulo": "O cemitério dos navios",
+  "texto": "Em Nouadhibou, na Mauritânia, centenas de navios abandonados enferrujam no mar, num dos maiores cemitérios de navios do mundo.",
+  "busca": "rusty shipwrecks",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f261",
+  "categoria": "Lugares proibidos",
+  "titulo": "O lago de piche",
+  "texto": "Em Trinidad e Tobago existe um lago de asfalto natural. De tempos em tempos, ele devolve objetos antigos, e já revelou ossos de animais pré-históricos.",
+  "busca": "black tar lake",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f262",
+  "categoria": "Lugares proibidos",
+  "titulo": "A ilha do leprosário",
+  "texto": "Na ilha de Spinalonga, na Grécia, funcionou até 1957 uma colônia para isolar pessoas com hanseníase. Hoje as ruínas recebem visitantes.",
+  "busca": "greek island ruins",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f263",
+  "categoria": "Lugares proibidos",
+  "titulo": "Os túneis de Cu Chi",
+  "texto": "No Vietnã, guerrilheiros cavaram mais de 200 quilômetros de túneis estreitos, com hospitais e cozinhas embaixo da terra, durante a guerra.",
+  "busca": "jungle tunnel",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f264",
+  "categoria": "Lugares proibidos",
+  "titulo": "O poço mais profundo",
+  "texto": "Na Rússia, cientistas perfuraram o Poço Superprofundo de Kola até mais de 12 quilômetros. O calor lá embaixo fez o projeto parar. Hoje, a entrada está lacrada.",
+  "busca": "metal cap ground",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f265",
+  "categoria": "Lugares proibidos",
+  "titulo": "A porta do inferno",
+  "texto": "No deserto do Turcomenistão, uma cratera de gás pega fogo sem parar desde que foi acesa, décadas atrás. Ela ficou conhecida como Porta do Inferno.",
+  "busca": "fire crater night",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f266",
+  "categoria": "Lugares proibidos",
+  "titulo": "A Ilha de Páscoa",
+  "texto": "A Ilha de Páscoa é uma das ilhas habitadas mais isoladas do mundo, a milhares de quilômetros do continente, vigiada por quase mil estátuas de pedra.",
+  "busca": "easter island moai",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f267",
+  "categoria": "Lugares proibidos",
+  "titulo": "A cidade sob o lago",
+  "texto": "Em vários lugares do mundo, inclusive no Brasil, cidades foram inundadas para criar represas. Em secas fortes, torres de igrejas reaparecem acima da água.",
+  "busca": "flooded church tower",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f268",
+  "categoria": "Lugares proibidos",
+  "titulo": "O deserto de sal",
+  "texto": "O Salar de Uyuni, na Bolívia, é o maior deserto de sal do mundo. Perto dele existe um cemitério de trens a vapor enferrujados.",
+  "busca": "salt flat",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f269",
+  "categoria": "Lugares proibidos",
+  "titulo": "A estação abandonada",
+  "texto": "Em Paris, existem estações de metrô fechadas há décadas, chamadas de estações fantasmas. Os trens passam por elas sem parar.",
+  "busca": "abandoned subway station",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f270",
+  "categoria": "Lugares proibidos",
+  "titulo": "A montanha de crânios",
+  "texto": "Na Igreja de São Francisco, em Lima, no Peru, as catacumbas guardam ossos de milhares de pessoas arrumados em padrões circulares.",
+  "busca": "skulls catacombs",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f271",
+  "categoria": "História macabra",
+  "titulo": "O Grande Incêndio de Chicago",
+  "texto": "Em 1871, um incêndio destruiu boa parte de Chicago em dois dias. Cerca de 300 pessoas morreram e quase 100 mil ficaram sem casa.",
+  "busca": "city fire night",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f272",
+  "categoria": "História macabra",
+  "titulo": "A erupção do Monte Pelée",
+  "texto": "Em 1902, o vulcão Monte Pelée destruiu a cidade de Saint-Pierre, na Martinica, em minutos. Quase todos os moradores morreram. Um dos poucos sobreviventes estava numa cela de prisão.",
+  "busca": "volcano ash city",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f273",
+  "categoria": "História macabra",
+  "titulo": "O naufrágio do Lusitania",
+  "texto": "Em 1915, o navio de passageiros Lusitania foi afundado por um submarino alemão perto da Irlanda. Mais de mil pessoas morreram em cerca de 18 minutos.",
+  "busca": "ship sinking ocean",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f274",
+  "categoria": "História macabra",
+  "titulo": "A doença do sono africana",
+  "texto": "No início do século 20, uma epidemia de doença do sono, transmitida pela mosca tsé-tsé, matou centenas de milhares de pessoas na África.",
+  "busca": "african river fog",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f275",
+  "categoria": "História macabra",
+  "titulo": "Os soldados de terracota",
+  "texto": "Para acompanhar o primeiro imperador da China na morte, foram feitos milhares de soldados de barro em tamanho real, cada um com rosto diferente.",
+  "busca": "terracotta warriors",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f276",
+  "categoria": "História macabra",
+  "titulo": "As múmias do pântano",
+  "texto": "Em pântanos do norte da Europa foram encontrados corpos de milhares de anos tão bem conservados que ainda têm pele, cabelo e expressão no rosto.",
+  "busca": "foggy swamp",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f277",
+  "categoria": "História macabra",
+  "titulo": "O desastre de Aberfan",
+  "texto": "Em 1966, uma montanha de rejeitos de mina deslizou sobre a vila de Aberfan, no País de Gales, e atingiu uma escola. Morreram 116 crianças.",
+  "busca": "welsh village fog",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f278",
+  "categoria": "História macabra",
+  "titulo": "A Grande Fome da China",
+  "texto": "Entre 1959 e 1961, a China passou pela pior fome registrada na história. Estimativas falam em dezenas de milhões de mortos.",
+  "busca": "dry field dusk",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f279",
+  "categoria": "Mistérios sem solução",
+  "titulo": "O desaparecimento de Amelia",
+  "texto": "Antes de sumir, Amelia Earhart mandou mensagens de rádio dizendo que estava com pouco combustível e não encontrava a ilha. Depois, silêncio.",
+  "busca": "old radio dark",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f280",
+  "categoria": "Mistérios sem solução",
+  "titulo": "As cabeças de pedra",
+  "texto": "Os olmecas, no México, esculpiram cabeças gigantes de pedra, algumas com mais de 20 toneladas, há cerca de 3 mil anos. Como as transportaram ainda é estudado.",
+  "busca": "giant stone head",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f281",
+  "categoria": "Mistérios sem solução",
+  "titulo": "O Mapa de Piri Reis",
+  "texto": "Em 1513, o almirante otomano Piri Reis desenhou um mapa com parte da costa da América do Sul. Algumas teorias exageram o mistério, mas ele é um documento raro.",
+  "busca": "old map",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f282",
+  "categoria": "Mistérios sem solução",
+  "titulo": "O Livro de Soyga",
+  "texto": "O Livro de Soyga é um manuscrito do século 16 com tabelas de letras cifradas. Parte delas só foi decifrada em 2006, e o autor continua desconhecido.",
+  "busca": "old manuscript",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f283",
+  "categoria": "Ciência sombria",
+  "titulo": "O mergulho mais profundo",
+  "texto": "Em 1960, dois homens desceram ao fundo da Fossa das Marianas num batiscafo. Uma janela rachou na descida, mas eles chegaram e voltaram vivos.",
+  "busca": "deep sea submarine",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f284",
+  "categoria": "Ciência sombria",
+  "titulo": "As aranhas que voam",
+  "texto": "Algumas aranhas soltam fios de seda ao vento e voam centenas de quilômetros. Já foram encontradas aranhas a quilômetros de altura.",
+  "busca": "spider web wind",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f285",
+  "categoria": "Ciência sombria",
+  "titulo": "O peixe mais feio",
+  "texto": "O peixe-bolha vive a centenas de metros de profundidade. Lá embaixo, ele tem forma normal. Fora da água, sem a pressão, ele vira uma bolha gelatinosa.",
+  "busca": "deep sea fish",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f286",
+  "categoria": "Ciência sombria",
+  "titulo": "Os corpos que não apodrecem",
+  "texto": "Em lugares muito secos ou muito frios, corpos podem se mumificar naturalmente. No deserto do Atacama, foram achadas múmias com milhares de anos.",
+  "busca": "atacama desert",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f287",
+  "categoria": "Ciência sombria",
+  "titulo": "O sapo-cururu invasor",
+  "texto": "Na Austrália, sapos-cururus foram levados para combater pragas em 1935. Eles se espalharam pelo país e envenenam os animais que tentam comê-los.",
+  "busca": "toad night",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f288",
+  "categoria": "Ciência sombria",
+  "titulo": "Os coelhos da Austrália",
+  "texto": "Em 1859, um fazendeiro soltou 24 coelhos na Austrália para caçar. Em poucas décadas, eles viraram centenas de milhões e destruíram plantações.",
+  "busca": "rabbits field",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f289",
+  "categoria": "Ciência sombria",
+  "titulo": "O vírus que dorme",
+  "texto": "Cientistas já reviveram vírus que estavam congelados há milhares de anos no gelo da Sibéria. Eles infectam amebas, não pessoas.",
+  "busca": "permafrost ice",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f290",
+  "categoria": "Lugares proibidos",
+  "titulo": "As tumbas do Vale dos Reis",
+  "texto": "No Vale dos Reis, no Egito, faraós foram enterrados em tumbas escavadas na rocha para escapar dos saqueadores. Quase todas foram saqueadas mesmo assim.",
+  "busca": "egypt valley tombs",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f291",
+  "categoria": "Lugares proibidos",
+  "titulo": "A ilha de Pitcairn",
+  "texto": "A ilha de Pitcairn, no Pacífico, foi povoada em 1790 pelos amotinados do navio Bounty. Hoje tem menos de 50 moradores e é um dos lugares mais isolados do mundo.",
+  "busca": "remote pacific island",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f292",
+  "categoria": "Lugares proibidos",
+  "titulo": "O sítio de Mohenjo-daro",
+  "texto": "Mohenjo-daro, no Paquistão, foi uma das maiores cidades do mundo antigo, com ruas planejadas e esgoto. Ela foi abandonada há milhares de anos, e ninguém sabe exatamente por quê.",
+  "busca": "ancient brick ruins",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f293",
+  "categoria": "Lugares proibidos",
+  "titulo": "A Muralha de Adriano",
+  "texto": "Na Inglaterra, os romanos construíram uma muralha de mais de cem quilômetros para marcar o limite do império. Partes dela continuam de pé quase dois mil anos depois.",
+  "busca": "stone wall hills fog",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f294",
+  "categoria": "Lugares proibidos",
+  "titulo": "As cavernas de Cu Chi",
+  "texto": "Nos túneis de Cu Chi, os moradores passavam dias sem ver a luz do sol, convivendo com escorpiões, ratos e ar abafado.",
+  "busca": "dark tunnel",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f295",
+  "categoria": "Lugares proibidos",
+  "titulo": "A cidade de Petra",
+  "texto": "Petra, na Jordânia, foi esculpida diretamente na rocha há mais de dois mil anos. Por séculos, ficou esquecida pelo mundo ocidental.",
+  "busca": "petra rock city",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f296",
+  "categoria": "Lugares proibidos",
+  "titulo": "O castelo de Bran",
+  "texto": "O castelo de Bran, na Romênia, é vendido como o castelo do Drácula. O personagem foi inventado, e o príncipe Vlad provavelmente quase não passou por lá.",
+  "busca": "castle mountains fog",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ },
+ {
+  "id": "f297",
+  "categoria": "Lugares proibidos",
+  "titulo": "A Ilha de Montecristo",
+  "texto": "A ilha de Montecristo, na Itália, inspirou o livro O Conde de Monte Cristo. Hoje é uma reserva natural, e só um número pequeno de visitantes pode entrar por ano.",
+  "busca": "rocky island sea",
+  "fonte": "banco escrito à mão (fatos conhecidos)"
+ }
+]

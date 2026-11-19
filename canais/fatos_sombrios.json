@@ -1,0 +1,52 @@
+{
+  "id": "fatos_sombrios",
+  "nome": "Fatos Sombrios",
+  "formato": "fatos",
+  "icone": "skull",
+  "cor": "#C9A227",
+  "descricao": "Três fatos reais e verificados por vídeo, numerados, com cara de documentário antigo.",
+  "voz": "pm_alex",
+  "velocidade": 1.0,
+  "clima_escuro": true,
+  "visual": {
+    "cor_a": "#C9A227",
+    "cor_b": "#8D6E3F",
+    "cor_destaque": "#E9C46A",
+    "gradiente": [
+      "0x3a2a12",
+      "0x120d08",
+      "0x241a10"
+    ],
+    "escurecer": -0.1,
+    "saturacao": 0.35,
+    "tom": "colorbalance=rs=0.10:gs=0.04:bs=-0.10:rm=0.06:bm=-0.06,"
+  },
+  "estrutura": [
+    "gancho",
+    "fato",
+    "fato",
+    "fato",
+    "final"
+  ],
+  "palavras": [
+    80,
+    165
+  ],
+  "tamanhos": "- gancho: 15 a 22 palavras. Promete fatos reais e perturbadores sobre o tema.\n- fato (3 vezes): 28 a 38 palavras cada. Um fato REAL e verificável, com lugar e ano quando houver.\n- final: 10 a 14 palavras. Pergunta qual fato foi o mais assustador e pede pra seguir o canal.",
+  "categorias": {
+    "História macabra": [
+      "história macabra"
+    ],
+    "Mistérios sem solução": [
+      "mistérios sem solução"
+    ],
+    "Ciência sombria": [
+      "ciência sombria"
+    ],
+    "Lugares proibidos": [
+      "lugares proibidos"
+    ]
+  },
+  "prompt": "Você é roteirista do canal de YouTube Shorts \"Fatos Sombrios\". Escreva em português do Brasil, tom de documentário misterioso, frases curtas e impactantes.\n\nTEMA: {tema}\n\nTAMANHO DE CADA CENA (conte as palavras, é obrigatório):\n- gancho: 15 a 22 palavras. Promete fatos reais e perturbadores sobre o tema.\n- fato (3 vezes): 28 a 38 palavras cada. Um fato REAL e verificável, com lugar e ano quando houver.\n- final: 10 a 14 palavras. Pergunta qual fato foi o mais assustador e pede pra seguir o canal.\nTotal: 110 a 150 palavras (menos de 58 segundos).\n\nREGRA MAIS IMPORTANTE: use SOMENTE fatos reais, bem documentados e famosos. Nunca invente nomes, datas ou números; se não tiver certeza de um detalhe, não cite o detalhe. Cada \"fato\" tem um \"titulo\" curto (2 a 5 palavras).\n\n\"busca\" = 2 a 4 palavras EM INGLÊS para achar um vídeo de fundo (ex.: \"dark forest night\").\n\nEXEMPLO no tamanho e estilo certos (é só um exemplo, NÃO copie o tema nem as frases):\n{\n \"titulo\": \"3 tragédias reais que parecem mentira\",\n \"descricao\": \"Fatos históricos estranhos que realmente aconteceram.\",\n \"tags\": [\n  \"fatos\",\n  \"historia\",\n  \"curiosidades\",\n  \"misterio\",\n  \"shorts\"\n ],\n \"cenas\": [\n  {\n   \"tipo\": \"gancho\",\n   \"texto\": \"Essas três tragédias aconteceram de verdade. E a terceira vai fazer você olhar diferente pro seu relógio.\",\n   \"busca\": \"old photograph dark\"\n  },\n  {\n   \"tipo\": \"fato\",\n   \"titulo\": \"A praga da dança\",\n   \"texto\": \"Em 1518, em Estrasburgo, uma mulher começou a dançar na rua e não conseguiu parar. Em semanas, dezenas de pessoas dançavam dia e noite, sem música, até desmaiar de exaustão.\",\n   \"busca\": \"medieval town night\"\n  },\n  {\n   \"tipo\": \"fato\",\n   \"titulo\": \"A onda de melaço\",\n   \"texto\": \"Em 1919, em Boston, um tanque gigante de melaço explodiu. Uma onda grossa e doce de vários metros invadiu as ruas, derrubou prédios e matou vinte e uma pessoas.\",\n   \"busca\": \"old city street fog\"\n  },\n  {\n   \"tipo\": \"fato\",\n   \"titulo\": \"As garotas do rádio\",\n   \"texto\": \"Nos anos 1920, operárias pintavam ponteiros de relógio com tinta de rádio, e afinavam o pincel com a boca. Elas brilhavam no escuro. E adoeceram por causa disso.\",\n   \"busca\": \"glowing clock dark\"\n  },\n  {\n   \"tipo\": \"final\",\n   \"texto\": \"Qual desses fatos te deu mais arrepio? Comenta e segue pra mais.\",\n   \"busca\": \"dark library candle\"\n  }\n ]\n}\n\nAgora escreva um roteiro NOVO sobre o TEMA acima, no mesmo formato JSON e do mesmo tamanho. Responda SOMENTE com o JSON.",
+  "banco": "fatos"
+}

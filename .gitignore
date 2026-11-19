@@ -1,0 +1,11 @@
+.venv/
+modelos/
+cache/
+saida/
+insights/
+tokens/
+config.json
+client_secret*.json
+bancos/usados.json
+bancos/brutos/
+__pycache__/

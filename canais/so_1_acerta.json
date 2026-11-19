@@ -1,0 +1,70 @@
+{
+  "id": "so_1_acerta",
+  "nome": "Só 1% Acerta",
+  "formato": "quiz",
+  "icone": "question",
+  "cor": "#7C3AED",
+  "descricao": "Três perguntas verificadas com três opções e contagem. A resposta certa acende em verde.",
+  "voz": "pf_dora",
+  "velocidade": 1.05,
+  "clima_escuro": false,
+  "visual": {
+    "cores": [
+      "#3A86FF",
+      "#8338EC",
+      "#FF006E"
+    ],
+    "cor_certa": "#16A34A",
+    "cor_destaque": "#FFD60A",
+    "gradiente": [
+      "0x2a0f4a",
+      "0x0d0a1a",
+      "0x0f2a4a"
+    ],
+    "escurecer": -0.08,
+    "saturacao": 0.8,
+    "tom": ""
+  },
+  "estrutura": [
+    "gancho",
+    "pergunta",
+    "pergunta",
+    "pergunta",
+    "final"
+  ],
+  "palavras": [
+    70,
+    150
+  ],
+  "tamanhos": "- gancho: 10 a 16 palavras. Desafia a pessoa a acertar as três.\n- pergunta (3 vezes): \"texto\" com 6 a 14 palavras; \"opcoes\" com exatamente 3 respostas curtas; \"correta\" = \"A\", \"B\" ou \"C\"; \"explicacao\" com 10 a 18 palavras explicando a resposta. Dificuldade crescente: fácil, média, difícil.\n- final: 8 a 12 palavras. Pergunta quantas a pessoa acertou e pede pra comentar.",
+  "categorias": {
+    "Conhecimentos gerais": [
+      "conhecimentos gerais",
+      "perguntas que todo mundo erra",
+      "curiosidades do dia a dia"
+    ],
+    "Ciência e corpo": [
+      "corpo humano",
+      "espaço e planetas",
+      "química e física do dia a dia",
+      "ciência e natureza",
+      "matemática",
+      "tecnologia"
+    ],
+    "Mundo": [
+      "geografia e países",
+      "bandeiras e capitais",
+      "história do Brasil",
+      "história mundial",
+      "mitologia"
+    ],
+    "Natureza": [
+      "animais estranhos",
+      "oceano e criaturas marinhas",
+      "insetos e bichos curiosos",
+      "animais"
+    ]
+  },
+  "prompt": "Você é roteirista do canal de YouTube Shorts \"Só 1% Acerta\": quiz rápido e viciante. Escreva em português do Brasil, linguagem simples e animada.\n\nTEMA: {tema}\n\nTAMANHO DE CADA CENA (conte as palavras, é obrigatório):\n- gancho: 10 a 16 palavras. Desafia a pessoa a acertar as três.\n- pergunta (3 vezes): \"texto\" com 6 a 14 palavras; \"opcoes\" com exatamente 3 respostas curtas; \"correta\" = \"A\", \"B\" ou \"C\"; \"explicacao\" com 10 a 18 palavras explicando a resposta. Dificuldade crescente: fácil, média, difícil.\n- final: 8 a 12 palavras. Pergunta quantas a pessoa acertou e pede pra comentar.\nTotal: 70 a 120 palavras.\n\nREGRA MAIS IMPORTANTE: as respostas corretas têm que ser fatos certos e conhecidos. Nada de pegadinha ambígua. As opções erradas devem ser plausíveis. Varie a letra correta entre as perguntas.\n\n\"busca\" = 2 a 4 palavras EM INGLÊS para achar um vídeo de fundo (ex.: \"dark forest night\").\n\nEXEMPLO no tamanho e estilo certos (é só um exemplo, NÃO copie o tema nem as frases):\n{\n \"titulo\": \"Só 1% acerta as 3. E você?\",\n \"descricao\": \"Três perguntas, três segundos cada.\",\n \"tags\": [\n  \"quiz\",\n  \"perguntas\",\n  \"desafio\",\n  \"conhecimentos gerais\",\n  \"shorts\"\n ],\n \"cenas\": [\n  {\n   \"tipo\": \"gancho\",\n   \"texto\": \"Três perguntas, três segundos cada. Só um por cento acerta todas. Bora?\",\n   \"busca\": \"question mark neon\"\n  },\n  {\n   \"tipo\": \"pergunta\",\n   \"texto\": \"Qual é o maior planeta do Sistema Solar?\",\n   \"opcoes\": [\n    \"Saturno\",\n    \"Júpiter\",\n    \"Netuno\"\n   ],\n   \"correta\": \"B\",\n   \"explicacao\": \"Júpiter é tão grande que caberiam mais de mil Terras dentro dele.\",\n   \"busca\": \"jupiter planet space\"\n  },\n  {\n   \"tipo\": \"pergunta\",\n   \"texto\": \"Quantos corações tem um polvo?\",\n   \"opcoes\": [\n    \"Um\",\n    \"Dois\",\n    \"Três\"\n   ],\n   \"correta\": \"C\",\n   \"explicacao\": \"O polvo tem três corações, e o sangue dele é azul.\",\n   \"busca\": \"octopus underwater\"\n  },\n  {\n   \"tipo\": \"pergunta\",\n   \"texto\": \"Quantos ossos tem o corpo de um adulto?\",\n   \"opcoes\": [\n    \"206\",\n    \"250\",\n    \"180\"\n   ],\n   \"correta\": \"A\",\n   \"explicacao\": \"Um adulto tem 206 ossos. Um bebê nasce com cerca de 300, que se fundem.\",\n   \"busca\": \"human skeleton anatomy\"\n  },\n  {\n   \"tipo\": \"final\",\n   \"texto\": \"Quantas você acertou? Fala a verdade nos comentários.\",\n   \"busca\": \"trophy light\"\n  }\n ]\n}\n\nAgora escreva um roteiro NOVO sobre o TEMA acima, no mesmo formato JSON e do mesmo tamanho. Responda SOMENTE com o JSON.",
+  "banco": "quiz"
+}

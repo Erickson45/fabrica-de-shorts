@@ -1,0 +1,62 @@
+{
+  "id": "contos_60s",
+  "nome": "Contos de 60s",
+  "formato": "conto",
+  "icone": "book",
+  "cor": "#0EA5E9",
+  "descricao": "Contos de terror originais em quatro atos, narrados devagar, com faixas de cinema e final com reviravolta.",
+  "voz": "pm_alex",
+  "velocidade": 0.94,
+  "clima_escuro": true,
+  "visual": {
+    "cor_a": "#0EA5E9",
+    "cor_b": "#64748B",
+    "cor_destaque": "#F8FAFC",
+    "gradiente": [
+      "0x0a1a2a",
+      "0x05070d",
+      "0x1a0a14"
+    ],
+    "escurecer": -0.14,
+    "saturacao": 0.45,
+    "tom": "colorbalance=bs=0.10:bm=0.05:rs=-0.04,"
+  },
+  "estrutura": [
+    "inicio",
+    "meio",
+    "climax",
+    "final"
+  ],
+  "palavras": [
+    105,
+    165
+  ],
+  "tamanhos": "- inicio: 28 a 38 palavras. Apresenta o personagem (você ou alguém) e algo levemente errado.\n- meio: 30 a 40 palavras. O estranho fica mais forte; detalhes que dão arrepio.\n- climax: 30 a 40 palavras. O momento de maior medo.\n- final: 22 a 32 palavras. Reviravolta final curta e marcante, que muda tudo.",
+  "categorias": {
+    "Casa": [
+      "babá eletrônica",
+      "barulho no sótão",
+      "a porta que aparece no corredor",
+      "o vizinho de cima"
+    ],
+    "Tecnologia": [
+      "mensagem de um número desconhecido",
+      "a câmera de segurança",
+      "o assistente de voz",
+      "a foto que aparece na galeria"
+    ],
+    "Estrada e viagem": [
+      "o carona da estrada",
+      "o motel de beira de estrada",
+      "o ônibus da madrugada",
+      "o GPS que muda o caminho"
+    ],
+    "Lendas": [
+      "a mulher de branco",
+      "o homem do saco",
+      "a casa que ninguém aluga",
+      "o reflexo que demora a se mexer"
+    ]
+  },
+  "prompt": "Você é roteirista do canal de YouTube Shorts \"Contos de 60s\": contos de terror ORIGINAIS e curtos. Escreva em português do Brasil, narração em terceira ou segunda pessoa, frases curtas, clima crescente, sem violência explícita.\n\nTEMA: {tema}\n\nTAMANHO DE CADA CENA (conte as palavras, é obrigatório):\n- inicio: 28 a 38 palavras. Apresenta o personagem (você ou alguém) e algo levemente errado.\n- meio: 30 a 40 palavras. O estranho fica mais forte; detalhes que dão arrepio.\n- climax: 30 a 40 palavras. O momento de maior medo.\n- final: 22 a 32 palavras. Reviravolta final curta e marcante, que muda tudo.\nTotal: 120 a 150 palavras.\n\nO conto precisa ser original (não copie histórias famosas) e o final precisa de uma reviravolta que surpreenda.\n\n\"busca\" = 2 a 4 palavras EM INGLÊS para achar um vídeo de fundo (ex.: \"dark forest night\").\n\nEXEMPLO no tamanho e estilo certos (é só um exemplo, NÃO copie o tema nem as frases):\n{\n \"titulo\": \"A babá eletrônica\",\n \"descricao\": \"Um conto de terror em 60 segundos.\",\n \"tags\": [\n  \"conto de terror\",\n  \"creepypasta\",\n  \"terror\",\n  \"historia curta\",\n  \"shorts\"\n ],\n \"cenas\": [\n  {\n   \"tipo\": \"inicio\",\n   \"texto\": \"Marina mora sozinha com o filho de dois anos. Toda noite ela deixa a babá eletrônica ligada no quarto dele. Naquela noite, às três da manhã, o aparelho chiou.\",\n   \"busca\": \"baby monitor night\"\n  },\n  {\n   \"tipo\": \"meio\",\n   \"texto\": \"Do outro lado, uma voz de mulher cantava baixinho uma cantiga de ninar. A mesma que a mãe de Marina cantava. Mas a mãe dela morreu há cinco anos.\",\n   \"busca\": \"dark hallway night\"\n  },\n  {\n   \"tipo\": \"climax\",\n   \"texto\": \"Marina correu pelo corredor, abriu a porta e acendeu a luz. O quarto estava vazio. O berço, vazio. E a janela, aberta, balançava com o vento frio.\",\n   \"busca\": \"empty crib dark room\"\n  },\n  {\n   \"tipo\": \"final\",\n   \"texto\": \"Então a babá eletrônica chiou de novo, na mão dela. E a voz sussurrou: shhh, ele está dormindo. Aqui embaixo.\",\n   \"busca\": \"dark basement stairs\"\n  }\n ]\n}\n\nAgora escreva um roteiro NOVO sobre o TEMA acima, no mesmo formato JSON e do mesmo tamanho. Responda SOMENTE com o JSON."
+}

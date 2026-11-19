@@ -1,0 +1,1382 @@
+[
+ {
+  "id": "q01",
+  "tema": "conhecimentos gerais",
+  "nivel": 1,
+  "pergunta": "Quantos dias tem um ano bissexto?",
+  "opcoes": [
+   "365",
+   "366",
+   "364"
+  ],
+  "correta": "B",
+  "explicacao": "Um ano bissexto tem 366 dias: fevereiro ganha o dia 29, a cada quatro anos.",
+  "busca": "calendar pages"
+ },
+ {
+  "id": "q02",
+  "tema": "conhecimentos gerais",
+  "nivel": 1,
+  "pergunta": "Tradicionalmente, quantas cores tem o arco-íris?",
+  "opcoes": [
+   "Cinco",
+   "Sete",
+   "Nove"
+  ],
+  "correta": "B",
+  "explicacao": "Pela divisão clássica feita por Isaac Newton, o arco-íris tem sete cores.",
+  "busca": "rainbow sky"
+ },
+ {
+  "id": "q03",
+  "tema": "conhecimentos gerais",
+  "nivel": 2,
+  "pergunta": "Quantos minutos tem um dia inteiro?",
+  "opcoes": [
+   "1.440",
+   "1.200",
+   "2.400"
+  ],
+  "correta": "A",
+  "explicacao": "São 24 horas de 60 minutos cada: 1.440 minutos por dia.",
+  "busca": "clock time lapse"
+ },
+ {
+  "id": "q04",
+  "tema": "conhecimentos gerais",
+  "nivel": 2,
+  "pergunta": "Em que ano o ser humano pisou na Lua pela primeira vez?",
+  "opcoes": [
+   "1965",
+   "1969",
+   "1972"
+  ],
+  "correta": "B",
+  "explicacao": "Neil Armstrong pisou na Lua em julho de 1969, na missão Apollo 11.",
+  "busca": "moon surface"
+ },
+ {
+  "id": "q05",
+  "tema": "conhecimentos gerais",
+  "nivel": 3,
+  "pergunta": "Qual língua tem mais falantes nativos no mundo?",
+  "opcoes": [
+   "Inglês",
+   "Espanhol",
+   "Mandarim"
+  ],
+  "correta": "C",
+  "explicacao": "O mandarim tem mais falantes nativos do que qualquer outra língua do planeta.",
+  "busca": "chinese city night"
+ },
+ {
+  "id": "q06",
+  "tema": "perguntas que todo mundo erra",
+  "nivel": 1,
+  "pergunta": "De que cor é o sangue dentro do corpo humano?",
+  "opcoes": [
+   "Azul",
+   "Vermelho",
+   "Roxo"
+  ],
+  "correta": "B",
+  "explicacao": "O sangue é sempre vermelho. As veias só parecem azuis por causa da pele.",
+  "busca": "red liquid macro"
+ },
+ {
+  "id": "q07",
+  "tema": "perguntas que todo mundo erra",
+  "nivel": 2,
+  "pergunta": "Quanto tempo a luz do Sol leva para chegar à Terra?",
+  "opcoes": [
+   "8 segundos",
+   "8 minutos",
+   "8 horas"
+  ],
+  "correta": "B",
+  "explicacao": "A luz do Sol leva cerca de oito minutos para chegar até nós.",
+  "busca": "sun rays space"
+ },
+ {
+  "id": "q08",
+  "tema": "perguntas que todo mundo erra",
+  "nivel": 2,
+  "pergunta": "Qual é o planeta mais quente do Sistema Solar?",
+  "opcoes": [
+   "Mercúrio",
+   "Vênus",
+   "Marte"
+  ],
+  "correta": "B",
+  "explicacao": "É Vênus: a atmosfera densa prende o calor, mesmo ele estando mais longe do Sol que Mercúrio.",
+  "busca": "venus planet"
+ },
+ {
+  "id": "q09",
+  "tema": "perguntas que todo mundo erra",
+  "nivel": 3,
+  "pergunta": "Qual é o maior deserto do mundo?",
+  "opcoes": [
+   "Saara",
+   "Antártida",
+   "Gobi"
+  ],
+  "correta": "B",
+  "explicacao": "A Antártida é um deserto polar, porque quase não chove lá, e é o maior do planeta.",
+  "busca": "antarctica ice"
+ },
+ {
+  "id": "q10",
+  "tema": "perguntas que todo mundo erra",
+  "nivel": 3,
+  "pergunta": "Qual é o país mais populoso do mundo hoje?",
+  "opcoes": [
+   "China",
+   "Índia",
+   "Estados Unidos"
+  ],
+  "correta": "B",
+  "explicacao": "Segundo a ONU, a Índia passou a China em 2023 e virou o país mais populoso.",
+  "busca": "crowded city street"
+ },
+ {
+  "id": "q11",
+  "tema": "curiosidades do dia a dia",
+  "nivel": 1,
+  "pergunta": "A que temperatura a água ferve ao nível do mar?",
+  "opcoes": [
+   "90 graus",
+   "100 graus",
+   "120 graus"
+  ],
+  "correta": "B",
+  "explicacao": "Ao nível do mar, a água ferve a 100 graus Celsius. Em lugares altos, ferve antes.",
+  "busca": "boiling water"
+ },
+ {
+  "id": "q12",
+  "tema": "curiosidades do dia a dia",
+  "nivel": 2,
+  "pergunta": "De que cor é a caixa-preta dos aviões?",
+  "opcoes": [
+   "Preta",
+   "Laranja",
+   "Cinza"
+  ],
+  "correta": "B",
+  "explicacao": "Apesar do nome, ela é laranja, para ser encontrada mais fácil depois de um acidente.",
+  "busca": "airplane cockpit"
+ },
+ {
+  "id": "q13",
+  "tema": "curiosidades do dia a dia",
+  "nivel": 2,
+  "pergunta": "Qual destes alimentos pode durar anos sem estragar?",
+  "opcoes": [
+   "Mel",
+   "Pão",
+   "Leite"
+  ],
+  "correta": "A",
+  "explicacao": "Bem fechado, o mel dura muitos anos. Já acharam mel comestível em tumbas do antigo Egito.",
+  "busca": "honey jar"
+ },
+ {
+  "id": "q14",
+  "tema": "curiosidades do dia a dia",
+  "nivel": 3,
+  "pergunta": "Quantas teclas tem um piano padrão?",
+  "opcoes": [
+   "76",
+   "88",
+   "100"
+  ],
+  "correta": "B",
+  "explicacao": "Um piano padrão tem 88 teclas: 52 brancas e 36 pretas.",
+  "busca": "piano keys"
+ },
+ {
+  "id": "q15",
+  "tema": "curiosidades do dia a dia",
+  "nivel": 1,
+  "pergunta": "Quantos lados tem um hexágono?",
+  "opcoes": [
+   "Cinco",
+   "Seis",
+   "Oito"
+  ],
+  "correta": "B",
+  "explicacao": "O hexágono tem seis lados, como os alvéolos de uma colmeia.",
+  "busca": "honeycomb"
+ },
+ {
+  "id": "q16",
+  "tema": "corpo humano",
+  "nivel": 1,
+  "pergunta": "Qual é o maior órgão do corpo humano?",
+  "opcoes": [
+   "Fígado",
+   "Pele",
+   "Intestino"
+  ],
+  "correta": "B",
+  "explicacao": "A pele é o maior órgão do corpo: protege, regula a temperatura e sente o toque.",
+  "busca": "human skin macro"
+ },
+ {
+  "id": "q17",
+  "tema": "corpo humano",
+  "nivel": 2,
+  "pergunta": "Quantos ossos tem o corpo de um adulto?",
+  "opcoes": [
+   "186",
+   "206",
+   "256"
+  ],
+  "correta": "B",
+  "explicacao": "Um adulto tem 206 ossos. Um bebê nasce com cerca de 300, que se fundem com o tempo.",
+  "busca": "human skeleton"
+ },
+ {
+  "id": "q18",
+  "tema": "corpo humano",
+  "nivel": 2,
+  "pergunta": "Qual é o osso mais longo do corpo humano?",
+  "opcoes": [
+   "Úmero",
+   "Fêmur",
+   "Tíbia"
+  ],
+  "correta": "B",
+  "explicacao": "O fêmur, o osso da coxa, é o mais longo e um dos mais fortes do corpo.",
+  "busca": "x ray bones"
+ },
+ {
+  "id": "q19",
+  "tema": "corpo humano",
+  "nivel": 2,
+  "pergunta": "Quantas câmaras tem o coração humano?",
+  "opcoes": [
+   "Duas",
+   "Três",
+   "Quatro"
+  ],
+  "correta": "C",
+  "explicacao": "O coração tem quatro câmaras: dois átrios e dois ventrículos.",
+  "busca": "heart beat anatomy"
+ },
+ {
+  "id": "q20",
+  "tema": "corpo humano",
+  "nivel": 3,
+  "pergunta": "Qual é o menor osso do corpo humano?",
+  "opcoes": [
+   "Estribo",
+   "Falange",
+   "Rótula"
+  ],
+  "correta": "A",
+  "explicacao": "O estribo fica dentro do ouvido e tem só cerca de três milímetros.",
+  "busca": "human ear"
+ },
+ {
+  "id": "q21",
+  "tema": "espaço e planetas",
+  "nivel": 1,
+  "pergunta": "Qual é o maior planeta do Sistema Solar?",
+  "opcoes": [
+   "Saturno",
+   "Júpiter",
+   "Netuno"
+  ],
+  "correta": "B",
+  "explicacao": "Júpiter é tão grande que caberiam mais de mil Terras dentro dele.",
+  "busca": "jupiter planet"
+ },
+ {
+  "id": "q22",
+  "tema": "espaço e planetas",
+  "nivel": 1,
+  "pergunta": "Qual é conhecido como o planeta vermelho?",
+  "opcoes": [
+   "Marte",
+   "Vênus",
+   "Mercúrio"
+  ],
+  "correta": "A",
+  "explicacao": "Marte é vermelho por causa do óxido de ferro, a ferrugem, espalhado pelo solo.",
+  "busca": "mars planet surface"
+ },
+ {
+  "id": "q23",
+  "tema": "espaço e planetas",
+  "nivel": 2,
+  "pergunta": "Quantos planetas tem o Sistema Solar?",
+  "opcoes": [
+   "Oito",
+   "Nove",
+   "Dez"
+  ],
+  "correta": "A",
+  "explicacao": "São oito. Plutão foi reclassificado como planeta-anão em 2006.",
+  "busca": "solar system planets"
+ },
+ {
+  "id": "q24",
+  "tema": "espaço e planetas",
+  "nivel": 2,
+  "pergunta": "Qual é o planeta mais próximo do Sol?",
+  "opcoes": [
+   "Vênus",
+   "Mercúrio",
+   "Marte"
+  ],
+  "correta": "B",
+  "explicacao": "Mercúrio é o mais próximo do Sol e também o menor planeta do Sistema Solar.",
+  "busca": "sun surface space"
+ },
+ {
+  "id": "q25",
+  "tema": "espaço e planetas",
+  "nivel": 3,
+  "pergunta": "Qual é a estrela mais próxima da Terra?",
+  "opcoes": [
+   "Sirius",
+   "O Sol",
+   "Próxima Centauri"
+  ],
+  "correta": "B",
+  "explicacao": "É o próprio Sol. Depois dele, a mais próxima é a Próxima Centauri.",
+  "busca": "stars night sky"
+ },
+ {
+  "id": "q26",
+  "tema": "química e física do dia a dia",
+  "nivel": 1,
+  "pergunta": "Qual gás as plantas absorvem para fazer fotossíntese?",
+  "opcoes": [
+   "Oxigênio",
+   "Gás carbônico",
+   "Hélio"
+  ],
+  "correta": "B",
+  "explicacao": "As plantas absorvem gás carbônico e, com a luz do Sol, liberam oxigênio.",
+  "busca": "green leaves sunlight"
+ },
+ {
+  "id": "q27",
+  "tema": "química e física do dia a dia",
+  "nivel": 1,
+  "pergunta": "O que viaja mais rápido: a luz ou o som?",
+  "opcoes": [
+   "A luz",
+   "O som",
+   "Os dois iguais"
+  ],
+  "correta": "A",
+  "explicacao": "A luz é muito mais rápida. Por isso você vê o raio antes de ouvir o trovão.",
+  "busca": "lightning storm"
+ },
+ {
+  "id": "q28",
+  "tema": "química e física do dia a dia",
+  "nivel": 1,
+  "pergunta": "A que temperatura a água congela?",
+  "opcoes": [
+   "Zero grau",
+   "Dez graus",
+   "Menos dez graus"
+  ],
+  "correta": "A",
+  "explicacao": "A água pura congela a zero grau Celsius, ao nível do mar.",
+  "busca": "ice freezing"
+ },
+ {
+  "id": "q29",
+  "tema": "química e física do dia a dia",
+  "nivel": 2,
+  "pergunta": "Qual metal é líquido na temperatura ambiente?",
+  "opcoes": [
+   "Mercúrio",
+   "Chumbo",
+   "Alumínio"
+  ],
+  "correta": "A",
+  "explicacao": "O mercúrio é o único metal líquido na temperatura ambiente. E ele é tóxico.",
+  "busca": "liquid metal"
+ },
+ {
+  "id": "q30",
+  "tema": "química e física do dia a dia",
+  "nivel": 3,
+  "pergunta": "Qual é o gás mais abundante no ar que respiramos?",
+  "opcoes": [
+   "Oxigênio",
+   "Nitrogênio",
+   "Gás carbônico"
+  ],
+  "correta": "B",
+  "explicacao": "Cerca de 78 por cento do ar é nitrogênio. O oxigênio é só uns 21 por cento.",
+  "busca": "clouds sky time lapse"
+ },
+ {
+  "id": "q31",
+  "tema": "geografia e países",
+  "nivel": 1,
+  "pergunta": "Qual é o maior país do mundo em área?",
+  "opcoes": [
+   "Canadá",
+   "Rússia",
+   "China"
+  ],
+  "correta": "B",
+  "explicacao": "A Rússia é o maior país do mundo, com mais de 17 milhões de quilômetros quadrados.",
+  "busca": "russia snow landscape"
+ },
+ {
+  "id": "q32",
+  "tema": "geografia e países",
+  "nivel": 1,
+  "pergunta": "Qual é o maior oceano da Terra?",
+  "opcoes": [
+   "Atlântico",
+   "Pacífico",
+   "Índico"
+  ],
+  "correta": "B",
+  "explicacao": "O Pacífico é o maior e o mais profundo oceano do planeta.",
+  "busca": "ocean waves aerial"
+ },
+ {
+  "id": "q33",
+  "tema": "geografia e países",
+  "nivel": 2,
+  "pergunta": "Qual é a montanha mais alta do mundo?",
+  "opcoes": [
+   "K2",
+   "Everest",
+   "Aconcágua"
+  ],
+  "correta": "B",
+  "explicacao": "O Everest tem cerca de 8.849 metros acima do nível do mar.",
+  "busca": "mountain peak snow"
+ },
+ {
+  "id": "q34",
+  "tema": "geografia e países",
+  "nivel": 2,
+  "pergunta": "Qual é o menor país do mundo?",
+  "opcoes": [
+   "Mônaco",
+   "Vaticano",
+   "Malta"
+  ],
+  "correta": "B",
+  "explicacao": "O Vaticano, dentro de Roma, tem menos de meio quilômetro quadrado.",
+  "busca": "rome vatican"
+ },
+ {
+  "id": "q35",
+  "tema": "geografia e países",
+  "nivel": 3,
+  "pergunta": "Com quantos países o Brasil faz fronteira?",
+  "opcoes": [
+   "Oito",
+   "Dez",
+   "Doze"
+  ],
+  "correta": "B",
+  "explicacao": "São dez. Na América do Sul, só Chile e Equador não fazem fronteira com o Brasil.",
+  "busca": "amazon river aerial"
+ },
+ {
+  "id": "q36",
+  "tema": "bandeiras e capitais",
+  "nivel": 1,
+  "pergunta": "Qual país tem uma folha de bordo na bandeira?",
+  "opcoes": [
+   "Canadá",
+   "Suíça",
+   "Japão"
+  ],
+  "correta": "A",
+  "explicacao": "A folha de bordo vermelha é o símbolo do Canadá.",
+  "busca": "autumn maple leaves"
+ },
+ {
+  "id": "q37",
+  "tema": "bandeiras e capitais",
+  "nivel": 1,
+  "pergunta": "Desde 1960, qual é a capital do Brasil?",
+  "opcoes": [
+   "Rio de Janeiro",
+   "Brasília",
+   "Salvador"
+  ],
+  "correta": "B",
+  "explicacao": "Brasília foi inaugurada em abril de 1960 e virou a capital do país.",
+  "busca": "modern architecture city"
+ },
+ {
+  "id": "q38",
+  "tema": "bandeiras e capitais",
+  "nivel": 2,
+  "pergunta": "Qual é a capital da Austrália?",
+  "opcoes": [
+   "Sydney",
+   "Melbourne",
+   "Camberra"
+  ],
+  "correta": "C",
+  "explicacao": "A capital é Camberra, uma cidade planejada, mesmo Sydney sendo a mais famosa.",
+  "busca": "australia city"
+ },
+ {
+  "id": "q39",
+  "tema": "bandeiras e capitais",
+  "nivel": 2,
+  "pergunta": "Qual é a capital do Canadá?",
+  "opcoes": [
+   "Toronto",
+   "Ottawa",
+   "Vancouver"
+  ],
+  "correta": "B",
+  "explicacao": "A capital do Canadá é Ottawa, e não Toronto, que é a maior cidade.",
+  "busca": "canada city winter"
+ },
+ {
+  "id": "q40",
+  "tema": "bandeiras e capitais",
+  "nivel": 3,
+  "pergunta": "Qual é a capital da Turquia?",
+  "opcoes": [
+   "Istambul",
+   "Ancara",
+   "Esmirna"
+  ],
+  "correta": "B",
+  "explicacao": "A capital é Ancara. Istambul é a maior cidade, mas não é a capital.",
+  "busca": "turkey city skyline"
+ },
+ {
+  "id": "q41",
+  "tema": "história do Brasil",
+  "nivel": 1,
+  "pergunta": "Em que ano o Brasil declarou independência?",
+  "opcoes": [
+   "1808",
+   "1822",
+   "1889"
+  ],
+  "correta": "B",
+  "explicacao": "A independência foi declarada em 7 de setembro de 1822.",
+  "busca": "old historic painting"
+ },
+ {
+  "id": "q42",
+  "tema": "história do Brasil",
+  "nivel": 2,
+  "pergunta": "Quem assinou a Lei Áurea, que aboliu a escravidão em 1888?",
+  "opcoes": [
+   "Dom Pedro Primeiro",
+   "Princesa Isabel",
+   "Getúlio Vargas"
+  ],
+  "correta": "B",
+  "explicacao": "A Princesa Isabel assinou a Lei Áurea em 13 de maio de 1888.",
+  "busca": "old document paper"
+ },
+ {
+  "id": "q43",
+  "tema": "história do Brasil",
+  "nivel": 2,
+  "pergunta": "Qual foi a primeira capital do Brasil?",
+  "opcoes": [
+   "Salvador",
+   "Rio de Janeiro",
+   "São Paulo"
+  ],
+  "correta": "A",
+  "explicacao": "Salvador foi a primeira capital, de 1549 até 1763.",
+  "busca": "colonial church"
+ },
+ {
+  "id": "q44",
+  "tema": "história do Brasil",
+  "nivel": 2,
+  "pergunta": "Em que ano foi proclamada a República no Brasil?",
+  "opcoes": [
+   "1822",
+   "1889",
+   "1930"
+  ],
+  "correta": "B",
+  "explicacao": "A República foi proclamada em 15 de novembro de 1889.",
+  "busca": "historic building"
+ },
+ {
+  "id": "q45",
+  "tema": "história do Brasil",
+  "nivel": 3,
+  "pergunta": "Qual era a moeda do Brasil logo antes do Real?",
+  "opcoes": [
+   "Cruzeiro Real",
+   "Cruzado",
+   "Mil-réis"
+  ],
+  "correta": "A",
+  "explicacao": "O Cruzeiro Real foi substituído pelo Real em 1994.",
+  "busca": "old coins money"
+ },
+ {
+  "id": "q46",
+  "tema": "animais estranhos",
+  "nivel": 1,
+  "pergunta": "Qual destes animais dorme de cabeça para baixo?",
+  "opcoes": [
+   "Morcego",
+   "Coruja",
+   "Preguiça"
+  ],
+  "correta": "A",
+  "explicacao": "O morcego dorme pendurado pelos pés, de cabeça para baixo.",
+  "busca": "bat cave"
+ },
+ {
+  "id": "q47",
+  "tema": "animais estranhos",
+  "nivel": 1,
+  "pergunta": "Qual é o animal terrestre mais rápido?",
+  "opcoes": [
+   "Leão",
+   "Guepardo",
+   "Cavalo"
+  ],
+  "correta": "B",
+  "explicacao": "O guepardo pode passar de 100 quilômetros por hora em corridas curtas.",
+  "busca": "cheetah running"
+ },
+ {
+  "id": "q48",
+  "tema": "animais estranhos",
+  "nivel": 2,
+  "pergunta": "Qual destes mamíferos bota ovos?",
+  "opcoes": [
+   "Ornitorrinco",
+   "Morcego",
+   "Golfinho"
+  ],
+  "correta": "A",
+  "explicacao": "O ornitorrinco é um dos raros mamíferos que botam ovos.",
+  "busca": "river wildlife"
+ },
+ {
+  "id": "q49",
+  "tema": "animais estranhos",
+  "nivel": 2,
+  "pergunta": "Qual destes animais é um mamífero?",
+  "opcoes": [
+   "Tubarão",
+   "Golfinho",
+   "Pinguim"
+  ],
+  "correta": "B",
+  "explicacao": "O golfinho respira ar, amamenta os filhotes e é mamífero, como nós.",
+  "busca": "dolphins underwater"
+ },
+ {
+  "id": "q50",
+  "tema": "animais estranhos",
+  "nivel": 3,
+  "pergunta": "Qual animal consegue regenerar uma pata inteira?",
+  "opcoes": [
+   "Axolote",
+   "Sapo",
+   "Coelho"
+  ],
+  "correta": "A",
+  "explicacao": "O axolote regenera patas inteiras e até partes do coração.",
+  "busca": "axolotl aquarium"
+ },
+ {
+  "id": "q51",
+  "tema": "oceano e criaturas marinhas",
+  "nivel": 1,
+  "pergunta": "Tubarões são peixes, mamíferos ou répteis?",
+  "opcoes": [
+   "Peixes",
+   "Mamíferos",
+   "Répteis"
+  ],
+  "correta": "A",
+  "explicacao": "Tubarões são peixes, e o esqueleto deles é feito de cartilagem, não de osso.",
+  "busca": "shark underwater"
+ },
+ {
+  "id": "q52",
+  "tema": "oceano e criaturas marinhas",
+  "nivel": 2,
+  "pergunta": "Quantos corações tem um polvo?",
+  "opcoes": [
+   "Um",
+   "Dois",
+   "Três"
+  ],
+  "correta": "C",
+  "explicacao": "O polvo tem três corações, e o sangue dele é azul.",
+  "busca": "octopus underwater"
+ },
+ {
+  "id": "q53",
+  "tema": "oceano e criaturas marinhas",
+  "nivel": 2,
+  "pergunta": "No cavalo-marinho, quem carrega os ovos até os filhotes nascerem?",
+  "opcoes": [
+   "A fêmea",
+   "O macho",
+   "Os dois"
+  ],
+  "correta": "B",
+  "explicacao": "É o macho: ele guarda os ovos numa bolsa na barriga até os filhotes nascerem.",
+  "busca": "seahorse"
+ },
+ {
+  "id": "q54",
+  "tema": "oceano e criaturas marinhas",
+  "nivel": 2,
+  "pergunta": "Qual é o maior animal que já existiu na Terra?",
+  "opcoes": [
+   "Baleia-azul",
+   "Megalodonte",
+   "Tiranossauro"
+  ],
+  "correta": "A",
+  "explicacao": "A baleia-azul é o maior animal que já existiu, maior que qualquer dinossauro conhecido.",
+  "busca": "whale ocean"
+ },
+ {
+  "id": "q55",
+  "tema": "oceano e criaturas marinhas",
+  "nivel": 3,
+  "pergunta": "Em que oceano fica o ponto mais profundo da Terra?",
+  "opcoes": [
+   "Atlântico",
+   "Pacífico",
+   "Índico"
+  ],
+  "correta": "B",
+  "explicacao": "A Fossa das Marianas, no Pacífico, tem quase 11 mil metros de profundidade.",
+  "busca": "deep ocean dark"
+ },
+ {
+  "id": "q56",
+  "tema": "insetos e bichos curiosos",
+  "nivel": 1,
+  "pergunta": "Quantas patas tem um inseto?",
+  "opcoes": [
+   "Seis",
+   "Oito",
+   "Dez"
+  ],
+  "correta": "A",
+  "explicacao": "Todo inseto adulto tem seis patas e o corpo dividido em três partes.",
+  "busca": "insect macro"
+ },
+ {
+  "id": "q57",
+  "tema": "insetos e bichos curiosos",
+  "nivel": 1,
+  "pergunta": "Quantas patas tem uma aranha?",
+  "opcoes": [
+   "Seis",
+   "Oito",
+   "Dez"
+  ],
+  "correta": "B",
+  "explicacao": "Aranhas têm oito patas e não são insetos: são aracnídeos.",
+  "busca": "spider web"
+ },
+ {
+  "id": "q58",
+  "tema": "insetos e bichos curiosos",
+  "nivel": 2,
+  "pergunta": "Qual destes animais não é um inseto?",
+  "opcoes": [
+   "Formiga",
+   "Escorpião",
+   "Besouro"
+  ],
+  "correta": "B",
+  "explicacao": "O escorpião é um aracnídeo, parente das aranhas.",
+  "busca": "scorpion desert"
+ },
+ {
+  "id": "q59",
+  "tema": "insetos e bichos curiosos",
+  "nivel": 3,
+  "pergunta": "Quantas asas tem uma abelha?",
+  "opcoes": [
+   "Duas",
+   "Quatro",
+   "Seis"
+  ],
+  "correta": "B",
+  "explicacao": "Abelhas têm quatro asas, que se prendem em pares durante o voo.",
+  "busca": "bee flower macro"
+ },
+ {
+  "id": "q60",
+  "tema": "insetos e bichos curiosos",
+  "nivel": 3,
+  "pergunta": "Por onde as borboletas sentem o gosto?",
+  "opcoes": [
+   "Pelas patas",
+   "Pelas asas",
+   "Pelas antenas"
+  ],
+  "correta": "A",
+  "explicacao": "Borboletas têm sensores de sabor nas patas: pousam e já sentem o gosto.",
+  "busca": "butterfly macro"
+ },
+ {
+  "id": "otdb_ef90cf5af4",
+  "tema": "ciência e natureza",
+  "nivel": 1,
+  "pergunta": "Quantos planetas existem no nosso Sistema Solar?",
+  "opcoes": [
+   "Sete",
+   "Oito",
+   "Dez"
+  ],
+  "correta": "B",
+  "explicacao": "O Sistema Solar possui oito planetas orbitando o Sol, incluindo os recém-classificados.",
+  "busca": "space, solar system, planets",
+  "fonte": "Open Trivia Database (opentdb.com), CC BY-SA 4.0"
+ },
+ {
+  "id": "otdb_1c780670f2",
+  "tema": "geografia e países",
+  "nivel": 1,
+  "pergunta": "A Universidade de Harvard está localizada em qual cidade?",
+  "opcoes": [
+   "Providence",
+   "Nova York",
+   "Cambridge"
+  ],
+  "correta": "C",
+  "explicacao": "Harvard fica em Cambridge, Massachusetts, nos Estados Unidos, uma cidade universitária.",
+  "busca": "university campus skyline",
+  "fonte": "Open Trivia Database (opentdb.com), CC BY-SA 4.0"
+ },
+ {
+  "id": "otdb_5b1076deb5",
+  "tema": "história mundial",
+  "nivel": 3,
+  "pergunta": "O panteão em Roma era usado para adorar qual deus?",
+  "opcoes": [
+   "Zeus",
+   "Athenas e Zeus",
+   "Qualquer deus que quisessem"
+  ],
+  "correta": "C",
+  "explicacao": "O panteão romano era dedicado a múltiplos deuses, permitindo a adoração de qualquer um.",
+  "busca": "ancient roman architecture",
+  "fonte": "Open Trivia Database (opentdb.com), CC BY-SA 4.0"
+ },
+ {
+  "id": "otdb_3080f1f12f",
+  "tema": "conhecimentos gerais",
+  "nivel": 1,
+  "pergunta": "O que pode ser visto no museu Madame Tussauds em Londres?",
+  "opcoes": [
+   "Bobinas de filme inéditas",
+   "Roupas de grife",
+   "Esculturas de cera"
+  ],
+  "correta": "C",
+  "explicacao": "O museu Madame Tussauds é famoso por suas réplicas de celebridades em cera.",
+  "busca": "wax museum london",
+  "fonte": "Open Trivia Database (opentdb.com), CC BY-SA 4.0"
+ },
+ {
+  "id": "otdb_fd0e9be6d5",
+  "tema": "geografia e países",
+  "nivel": 1,
+  "pergunta": "Groenlândia faz parte de qual reino?",
+  "opcoes": [
+   "Suécia",
+   "Dinamarca",
+   "Noruega"
+  ],
+  "correta": "B",
+  "explicacao": "A Groenlândia é um território autônomo que pertence ao Reino da Dinamarca.",
+  "busca": "cold landscape arctic",
+  "fonte": "Open Trivia Database (opentdb.com), CC BY-SA 4.0"
+ },
+ {
+  "id": "otdb_5ee5291b7e",
+  "tema": "história mundial",
+  "nivel": 2,
+  "pergunta": "Qual destes países NÃO fez parte da União Soviética?",
+  "opcoes": [
+   "Cazaquistão",
+   "Afeganistão",
+   "Turcomenistão"
+  ],
+  "correta": "B",
+  "explicacao": "O Afeganistão manteve sua independência e nunca foi incorporado ao território da União Soviética.",
+  "busca": "cold war history",
+  "fonte": "Open Trivia Database (opentdb.com), CC BY-SA 4.0"
+ },
+ {
+  "id": "otdb_fbe9445cee",
+  "tema": "animais",
+  "nivel": 1,
+  "pergunta": "Cobras e lagartos são conhecidos por lançar a língua. Esse comportamento serve para?",
+  "opcoes": [
+   "Capturar partículas de cheiro",
+   "Ameaçar outras espécies",
+   "Atrair parceiras"
+  ],
+  "correta": "A",
+  "explicacao": "A língua ajuda a detectar odores no ambiente, permitindo que esses répteis rastreiem presas e se orientem.",
+  "busca": "snakes lizards tongue",
+  "fonte": "Open Trivia Database (opentdb.com), CC BY-SA 4.0"
+ },
+ {
+  "id": "otdb_1bb318d2d7",
+  "tema": "geografia e países",
+  "nivel": 3,
+  "pergunta": "Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch fica em qual ilha galesa?",
+  "opcoes": [
+   "Anglesey",
+   "Bardsey",
+   "Barry"
+  ],
+  "correta": "A",
+  "explicacao": "Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch está localizada na ilha de Anglesey, no País de Gales.",
+  "busca": "landscape, nature, travel",
+  "fonte": "Open Trivia Database (opentdb.com), CC BY-SA 4.0"
+ },
+ {
+  "id": "otdb_0252768463",
+  "tema": "geografia e países",
+  "nivel": 2,
+  "pergunta": "Qual destes países tem uma capital que começa com a letra B?",
+  "opcoes": [
+   "Líbano",
+   "Qatar",
+   "Jordânia"
+  ],
+  "correta": "A",
+  "explicacao": "Beirut, a capital do Líbano, é a única capital da lista que inicia com a letra B.",
+  "busca": "world capitals letters",
+  "fonte": "Open Trivia Database (opentdb.com), CC BY-SA 4.0"
+ },
+ {
+  "id": "otdb_b4f021713a",
+  "tema": "ciência e natureza",
+  "nivel": 2,
+  "pergunta": "Qual o nome do Buraco Negro Supermassivo no centro da Via Láctea?",
+  "opcoes": [
+   "Sagittarius A*",
+   "Alpha Centauri",
+   "Messier 87"
+  ],
+  "correta": "A",
+  "explicacao": "Sagittarius A* é o nome dado ao buraco negro supermassivo localizado no centro da nossa galáxia.",
+  "busca": "space, galaxy, black hole",
+  "fonte": "Open Trivia Database (opentdb.com), CC BY-SA 4.0"
+ },
+ {
+  "id": "otdb_2a334666eb",
+  "tema": "animais",
+  "nivel": 3,
+  "pergunta": "Qual dos seguintes é outro nome para a tarântula *Poecilotheria Metallica*?",
+  "opcoes": [
+   "Woebegone",
+   "Gooty",
+   "Hopper"
+  ],
+  "correta": "B",
+  "explicacao": "Gooty é o nome comum usado para se referir à tarântula *Poecilotheria metallica*.",
+  "busca": "spider close up macro",
+  "fonte": "Open Trivia Database (opentdb.com), CC BY-SA 4.0"
+ },
+ {
+  "id": "otdb_75f9c58ff2",
+  "tema": "geografia e países",
+  "nivel": 2,
+  "pergunta": "Quantos fusos horários existem na Rússia?",
+  "opcoes": [
+   "8",
+   "11",
+   "2"
+  ],
+  "correta": "B",
+  "explicacao": "Devido à sua vasta extensão territorial, a Rússia abrange onze fusos horários diferentes.",
+  "busca": "time zones map",
+  "fonte": "Open Trivia Database (opentdb.com), CC BY-SA 4.0"
+ },
+ {
+  "id": "otdb_d75db41741",
+  "tema": "geografia e países",
+  "nivel": 2,
+  "pergunta": "Qual o nome do antigo país que deu origem a nações como Sérvia, Croácia e Eslovênia?",
+  "opcoes": [
+   "Abcásia",
+   "Iugoslávia",
+   "Ossétia do Sul"
+  ],
+  "correta": "B",
+  "explicacao": "Iugoslávia se dissolveu, dando origem a diversos países da região nos anos 90.",
+  "busca": "historical country split",
+  "fonte": "Open Trivia Database (opentdb.com), CC BY-SA 4.0"
+ },
+ {
+  "id": "otdb_ee61081f93",
+  "tema": "história mundial",
+  "nivel": 1,
+  "pergunta": "Qual país aderiu à União Europeia em 2013?",
+  "opcoes": [
+   "Turquia",
+   "Bulgária",
+   "Croácia"
+  ],
+  "correta": "C",
+  "explicacao": "A Croácia se tornou membro da União Europeia em 1 de julho de 2013.",
+  "busca": "european union expansion",
+  "fonte": "Open Trivia Database (opentdb.com), CC BY-SA 4.0"
+ },
+ {
+  "id": "otdb_3a99bb70f3",
+  "tema": "conhecimentos gerais",
+  "nivel": 2,
+  "pergunta": "Se o cabelo de uma pessoa é descrito como 'Titian', qual a cor?",
+  "opcoes": [
+   "Loiro",
+   "Preto",
+   "Ruivo"
+  ],
+  "correta": "C",
+  "explicacao": "Titian foi um pintor famoso que retratava cabelos ruivos vibrantes em suas obras.",
+  "busca": "art, painting, portrait, hair",
+  "fonte": "Open Trivia Database (opentdb.com), CC BY-SA 4.0"
+ },
+ {
+  "id": "otdb_a7c27a82ff",
+  "tema": "história mundial",
+  "nivel": 2,
+  "pergunta": "Em qual dia começou a tentativa de golpe de 1991 na União Soviética?",
+  "opcoes": [
+   "21 de agosto",
+   "24 de dezembro",
+   "19 de agosto"
+  ],
+  "correta": "C",
+  "explicacao": "A tentativa de golpe na União Soviética começou em 19 de agosto de 1991.",
+  "busca": "historical coup attempt",
+  "fonte": "Open Trivia Database (opentdb.com), CC BY-SA 4.0"
+ },
+ {
+  "id": "otdb_e1e9f702b5",
+  "tema": "ciência e natureza",
+  "nivel": 3,
+  "pergunta": "Quais das seguintes opções são células do sistema imunológico adaptativo?",
+  "opcoes": [
+   "Células NK",
+   "Células T citotóxicas",
+   "Células dendríticas"
+  ],
+  "correta": "B",
+  "explicacao": "Células T citotóxicas são cruciais para a resposta imune adaptativa, eliminando células infectadas.",
+  "busca": "immune system cells",
+  "fonte": "Open Trivia Database (opentdb.com), CC BY-SA 4.0"
+ },
+ {
+  "id": "otdb_14bbb3bb03",
+  "tema": "geografia e países",
+  "nivel": 1,
+  "pergunta": "Qual é o idioma oficial de Liechtenstein?",
+  "opcoes": [
+   "Francês",
+   "Italiano",
+   "Alemão"
+  ],
+  "correta": "C",
+  "explicacao": "Liechtenstein é um país de língua alemã, localizado na Europa Central, próximo à Suíça.",
+  "busca": "european small country",
+  "fonte": "Open Trivia Database (opentdb.com), CC BY-SA 4.0"
+ },
+ {
+  "id": "otdb_dd61599fa7",
+  "tema": "conhecimentos gerais",
+  "nivel": 3,
+  "pergunta": "Quem fundou a Khan Academy?",
+  "opcoes": [
+   "Ben Khan",
+   "Sal Khan",
+   "Adel Khan"
+  ],
+  "correta": "B",
+  "explicacao": "Sal Khan criou a Khan Academy para oferecer aulas online gratuitas, inicialmente para seus primos.",
+  "busca": "online learning education",
+  "fonte": "Open Trivia Database (opentdb.com), CC BY-SA 4.0"
+ },
+ {
+  "id": "otdb_7cbfa1e4fa",
+  "tema": "animais",
+  "nivel": 1,
+  "pergunta": "Como se chama a toca de um coelho?",
+  "opcoes": [
+   "Burrow",
+   "Den",
+   "Nest"
+  ],
+  "correta": "A",
+  "explicacao": "Burrow é o termo correto para a toca subterrânea que coelhos constroem para viver.",
+  "busca": "rabbit habitat home",
+  "fonte": "Open Trivia Database (opentdb.com), CC BY-SA 4.0"
+ },
+ {
+  "id": "otdb_817250c7a7",
+  "tema": "história mundial",
+  "nivel": 1,
+  "pergunta": "Em qual rua começou o Grande Incêndio de Londres de 1666?",
+  "opcoes": [
+   "Houses of Parliament",
+   "Catedral de São Paulo",
+   "Pudding Lane"
+  ],
+  "correta": "C",
+  "explicacao": "O incêndio devastador de 1666 começou na Pudding Lane, em Londres.",
+  "busca": "london fire history",
+  "fonte": "Open Trivia Database (opentdb.com), CC BY-SA 4.0"
+ },
+ {
+  "id": "otdb_af315dc0b0",
+  "tema": "mitologia",
+  "nivel": 2,
+  "pergunta": "Um minotauro é metade humano, metade o quê?",
+  "opcoes": [
+   "Touro",
+   "Cavalo",
+   "Águia"
+  ],
+  "correta": "A",
+  "explicacao": "Minotauros da mitologia grega são criaturas com corpo de homem e cabeça de touro.",
+  "busca": "mythical creature background",
+  "fonte": "Open Trivia Database (opentdb.com), CC BY-SA 4.0"
+ },
+ {
+  "id": "otdb_b186676df4",
+  "tema": "conhecimentos gerais",
+  "nivel": 1,
+  "pergunta": "Qual a letra mais usada no alfabeto inglês?",
+  "opcoes": [
+   "E",
+   "I",
+   "O"
+  ],
+  "correta": "A",
+  "explicacao": "A letra 'E' é a mais comum em palavras da língua inglesa, estatisticamente.",
+  "busca": "alphabet letter frequency",
+  "fonte": "Open Trivia Database (opentdb.com), CC BY-SA 4.0"
+ },
+ {
+  "id": "otdb_277c993c8b",
+  "tema": "história mundial",
+  "nivel": 2,
+  "pergunta": "Em que ano a Primeira Guerra Mundial terminou?",
+  "opcoes": [
+   "1912",
+   "1916",
+   "1918"
+  ],
+  "correta": "C",
+  "explicacao": "O armistício foi assinado em 11 de novembro de 1918, marcando o fim do conflito.",
+  "busca": "world war history timeline",
+  "fonte": "Open Trivia Database (opentdb.com), CC BY-SA 4.0"
+ },
+ {
+  "id": "otdb_59edb06131",
+  "tema": "história mundial",
+  "nivel": 1,
+  "pergunta": "Qual famoso comandante militar liderou um exército, que incluía elefantes de guerra, através dos Alpes durante a Segunda Guerra Púnica?",
+  "opcoes": [
+   "Alexandre, o Grande",
+   "Aníbal",
+   "Germânico"
+  ],
+  "correta": "B",
+  "explicacao": "Aníbal utilizou elefantes de guerra para cruzar os Alpes e surpreender o exército romano.",
+  "busca": "ancient army warfare",
+  "fonte": "Open Trivia Database (opentdb.com), CC BY-SA 4.0"
+ },
+ {
+  "id": "otdb_29b5c2ea08",
+  "tema": "história mundial",
+  "nivel": 3,
+  "pergunta": "Qual filósofo grego você associaria à frase: \"Eu sei que nada sei\"?",
+  "opcoes": [
+   "Aristóteles",
+   "Sócrates",
+   "Pitágoras"
+  ],
+  "correta": "B",
+  "explicacao": "Sócrates, conhecido por sua humildade intelectual, popularizou essa famosa frase sobre o conhecimento.",
+  "busca": "ancient greek philosophy",
+  "fonte": "Open Trivia Database (opentdb.com), CC BY-SA 4.0"
+ },
+ {
+  "id": "otdb_101e58c7bd",
+  "tema": "conhecimentos gerais",
+  "nivel": 1,
+  "pergunta": "Qual o nome da bebida alcoólica feita de batatas ou grãos, originária da Polônia e Rússia?",
+  "opcoes": [
+   "Rum",
+   "Vodka",
+   "Absinto"
+  ],
+  "correta": "B",
+  "explicacao": "A vodka é tradicionalmente produzida a partir de batatas ou grãos na Polônia e Rússia.",
+  "busca": "alcoholic beverage production",
+  "fonte": "Open Trivia Database (opentdb.com), CC BY-SA 4.0"
+ },
+ {
+  "id": "otdb_eaa6c010e7",
+  "tema": "conhecimentos gerais",
+  "nivel": 1,
+  "pergunta": "O que a letra 'S' significa na sigla SIM, como em SIM card?",
+  "opcoes": [
+   "Seguro",
+   "Assinante",
+   "Simples"
+  ],
+  "correta": "B",
+  "explicacao": "SIM card significa 'Subscriber Identity Module', ou seja, um módulo de identificação de assinante.",
+  "busca": "technology, mobile, card, data",
+  "fonte": "Open Trivia Database (opentdb.com), CC BY-SA 4.0"
+ },
+ {
+  "id": "otdb_8a0672244b",
+  "tema": "história mundial",
+  "nivel": 2,
+  "pergunta": "A Batalha do Somme, na Primeira Guerra Mundial, ocorreu em qual país?",
+  "opcoes": [
+   "França",
+   "Itália",
+   "Áustria"
+  ],
+  "correta": "A",
+  "explicacao": "A Batalha do Somme foi travada na França durante a Primeira Guerra Mundial.",
+  "busca": "world war one battle",
+  "fonte": "Open Trivia Database (opentdb.com), CC BY-SA 4.0"
+ },
+ {
+  "id": "otdb_51d11306e5",
+  "tema": "geografia e países",
+  "nivel": 1,
+  "pergunta": "Qual cidade europeia é conhecida como a \"Cidade da Luz\"?",
+  "opcoes": [
+   "Paris",
+   "Roma",
+   "Londres"
+  ],
+  "correta": "A",
+  "explicacao": "Paris recebeu esse apelido devido à sua iluminação pública pioneira e atmosfera romântica.",
+  "busca": "city lights europe",
+  "fonte": "Open Trivia Database (opentdb.com), CC BY-SA 4.0"
+ },
+ {
+  "id": "otdb_13a1d4a4c1",
+  "tema": "história mundial",
+  "nivel": 1,
+  "pergunta": "O alfabeto romano original não possuía as seguintes letras, EXCETO:",
+  "opcoes": [
+   "X",
+   "J",
+   "U"
+  ],
+  "correta": "A",
+  "explicacao": "A letra X já existia no alfabeto romano original, sendo usada para representar sons.",
+  "busca": "ancient roman alphabet",
+  "fonte": "Open Trivia Database (opentdb.com), CC BY-SA 4.0"
+ },
+ {
+  "id": "otdb_f65d7ece06",
+  "tema": "ciência e natureza",
+  "nivel": 3,
+  "pergunta": "Qual unidade científica recebeu o nome de um nobre italiano?",
+  "opcoes": [
+   "Volt",
+   "Pascal",
+   "Hertz"
+  ],
+  "correta": "A",
+  "explicacao": "O Volt homenageia Alessandro Volta, físico italiano que inventou a pilha voltaica.",
+  "busca": "science, history, invention",
+  "fonte": "Open Trivia Database (opentdb.com), CC BY-SA 4.0"
+ },
+ {
+  "id": "otdb_0fcea2579e",
+  "tema": "história mundial",
+  "nivel": 1,
+  "pergunta": "Qual marechal alemão ficou conhecido como a `Raposa do Deserto`?",
+  "opcoes": [
+   "Wolfram Freiherr von Richthofen",
+   "Erwin Rommel",
+   "Ernst Busch"
+  ],
+  "correta": "B",
+  "explicacao": "Erwin Rommel recebeu esse apelido devido à sua habilidade em campanhas no Norte da África.",
+  "busca": "desert warfare history",
+  "fonte": "Open Trivia Database (opentdb.com), CC BY-SA 4.0"
+ },
+ {
+  "id": "otdb_b2de13ba56",
+  "tema": "história mundial",
+  "nivel": 1,
+  "pergunta": "Em qual país Josef Stalin nasceu?",
+  "opcoes": [
+   "Geórgia",
+   "Alemanha",
+   "Polônia"
+  ],
+  "correta": "A",
+  "explicacao": "Stalin nasceu na Geórgia, que na época fazia parte do Império Russo.",
+  "busca": "historical figures birthplace",
+  "fonte": "Open Trivia Database (opentdb.com), CC BY-SA 4.0"
+ },
+ {
+  "id": "otdb_2f512555b0",
+  "tema": "geografia e países",
+  "nivel": 2,
+  "pergunta": "Qual era a cidade mais populosa das Américas em 2015?",
+  "opcoes": [
+   "São Paulo",
+   "Cidade do México",
+   "Los Angeles"
+  ],
+  "correta": "A",
+  "explicacao": "Em 2015, São Paulo superava as outras cidades americanas em número de habitantes.",
+  "busca": "city population growth",
+  "fonte": "Open Trivia Database (opentdb.com), CC BY-SA 4.0"
+ },
+ {
+  "id": "otdb_6b5baed317",
+  "tema": "ciência e natureza",
+  "nivel": 1,
+  "pergunta": "Qual destes ossos é o mais difícil de quebrar?",
+  "opcoes": [
+   "Crânio",
+   "Fêmur",
+   "Úmero"
+  ],
+  "correta": "B",
+  "explicacao": "O fêmur, ou osso da coxa, é o osso mais longo e resistente do corpo humano.",
+  "busca": "human skeleton bones",
+  "fonte": "Open Trivia Database (opentdb.com), CC BY-SA 4.0"
+ }
+]

@@ -1,0 +1,328 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light">
+<title>Insights · Fábrica de Shorts</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%2317150F'/%3E%3Cpath d='M26 20v24l20-12z' fill='%23FF3B30'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,800&family=Geist:wght@400;500;600;700&family=Geist+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #F3F2EE; --surface: #fff; --surface-2: #FAF9F6; --hover: #F3F1EC;
+    --border: #E7E4DD; --border-2: #D6D2C8; --text: #17150F; --text-2: #5F5A50; --text-3: #9A948A;
+    --grid: #EEEBE4; --ok: #15803D; --ok-soft: #EAF6EE; --red: #FF3B30;
+    --sombra: 0 1px 2px rgba(23,21,15,.04), 0 1px 1px rgba(23,21,15,.02);
+    --sombra-2: 0 1px 2px rgba(23,21,15,.04), 0 14px 36px -14px rgba(23,21,15,.16);
+    --ui: "Geist", system-ui, sans-serif; --mono: "Geist Mono", ui-monospace, monospace;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--text); font: 14px/1.5 var(--ui); -webkit-font-smoothing: antialiased; }
+  a { color: inherit; text-decoration: none; }
+  button { font: inherit; color: inherit; }
+  .topo { display: flex; align-items: center; gap: 14px; padding: 16px 32px; background: var(--surface-2); border-bottom: 1px solid var(--border); position: sticky; top: 0; z-index: 5; }
+  .marca { display: flex; align-items: center; gap: 10px; }
+  .marca .logo { width: 34px; height: 34px; border-radius: 10px; background: #17150F; display: grid; place-items: center; }
+  .marca b { font: 800 18px/1 "Bricolage Grotesque", var(--ui); letter-spacing: -.03em; }
+  .voltar { margin-left: auto; white-space: nowrap; display: inline-flex; align-items: center; gap: 6px; height: 34px; padding: 0 12px; border-radius: 9px; border: 1px solid var(--border); background: #fff; font-weight: 500; font-size: 13px; box-shadow: var(--sombra); }
+  .main { max-width: 1180px; margin: 0 auto; padding: 26px 32px 80px; }
+  .cab { display: flex; align-items: flex-end; gap: 16px; flex-wrap: wrap; margin-bottom: 20px; }
+  .cab h1 { margin: 0; font: 600 28px/1.1 var(--ui); letter-spacing: -.03em; }
+  .cab p { margin: 4px 0 0; color: var(--text-2); }
+  .cab form { margin-left: auto; }
+  .btn { cursor: pointer; height: 38px; padding: 0 16px; border-radius: 10px; border: 0; background: #17150F; color: #fff; font-weight: 600; display: inline-flex; align-items: center; gap: 8px; }
+  .btn svg { width: 15px; height: 15px; }
+  .card { background: var(--surface); border: 1px solid var(--border); border-radius: 16px; box-shadow: var(--sombra); }
+  .erro { padding: 12px 16px; border-radius: 12px; background: #FEF2F2; color: #B91C1C; margin-bottom: 16px; font-size: 13px; }
+
+  /* números gerais */
+  .kpis { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 12px; }
+  .kpi { padding: 18px 20px; }
+  .kpi span { font-size: 12.5px; color: var(--text-2); font-weight: 500; }
+  .kpi b { display: block; margin-top: 8px; font: 600 34px/1 var(--ui); letter-spacing: -.04em; font-variant-numeric: tabular-nums; }
+  .kpi small { display: inline-flex; align-items: center; gap: 4px; margin-top: 8px; font-size: 12px; color: var(--text-3); }
+  .kpi small.sobe { color: var(--ok); font-weight: 600; }
+
+  /* canais */
+  .canais { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 12px; margin-top: 14px; }
+  .canal { padding: 16px; position: relative; overflow: hidden; }
+  .canal::before { content: ""; position: absolute; inset: 0 0 auto 0; height: 4px; background: var(--cc); }
+  .canal-top { display: flex; align-items: center; gap: 10px; }
+  .tile { width: 36px; height: 36px; border-radius: 10px; display: grid; place-items: center; color: #fff; background: linear-gradient(140deg, var(--cc), color-mix(in srgb, var(--cc) 55%, #000)); flex: none; }
+  .tile svg { width: 17px; height: 17px; }
+  .canal-top strong { display: block; font-size: 14px; line-height: 1.2; }
+  .canal-top small { font-size: 12px; color: var(--text-3); }
+  .canal dl { display: grid; grid-template-columns: repeat(3, 1fr); gap: 6px; margin: 14px 0 0; }
+  .canal dt { font-size: 11.5px; color: var(--text-3); }
+  .canal dd { margin: 2px 0 0; font: 600 18px/1.1 var(--ui); font-variant-numeric: tabular-nums; }
+  .canal dd em { font-style: normal; font-size: 11px; font-weight: 600; color: var(--ok); margin-left: 3px; }
+  .canal .melhor { margin-top: 12px; padding-top: 10px; border-top: 1px solid var(--border); font-size: 12px; color: var(--text-2); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .canal .melhor b { color: var(--text); font-weight: 600; }
+
+  /* gráficos */
+  .graficos { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.25fr); gap: 14px; margin-top: 14px; }
+  .grafico { padding: 18px 20px; }
+  .grafico h2 { margin: 0; font-size: 15px; font-weight: 600; letter-spacing: -.01em; }
+  .grafico p.sub { margin: 2px 0 12px; font-size: 12.5px; color: var(--text-3); }
+  .legenda { display: flex; flex-wrap: wrap; gap: 6px 14px; margin-bottom: 8px; font-size: 12px; color: var(--text-2); }
+  .legenda span { display: inline-flex; align-items: center; gap: 6px; }
+  .legenda i { width: 10px; height: 10px; border-radius: 3px; }
+  svg.chart { width: 100%; height: auto; display: block; overflow: visible; }
+  svg.chart text { font-family: var(--ui); }
+  .vazio-graf { display: grid; place-items: center; text-align: center; min-height: 180px; color: var(--text-3); font-size: 13px; border: 1px dashed var(--border-2); border-radius: 12px; padding: 20px; }
+  .tip { position: fixed; z-index: 30; pointer-events: none; background: #17150F; color: #fff; border-radius: 10px; padding: 9px 11px; font-size: 12px; line-height: 1.5; box-shadow: 0 10px 28px -8px rgba(0,0,0,.35); opacity: 0; transition: opacity .1s; min-width: 150px; }
+  .tip.on { opacity: 1; }
+  .tip b { display: block; font-size: 12.5px; margin-bottom: 2px; }
+  .tip .lin { display: flex; align-items: center; gap: 7px; }
+  .tip .lin i { width: 8px; height: 8px; border-radius: 2px; flex: none; }
+  .tip .lin span { margin-left: auto; padding-left: 12px; font-family: var(--mono); }
+
+  /* tabela */
+  .tabela-card { margin-top: 14px; overflow: hidden; }
+  .tabela-card h2 { margin: 0; padding: 16px 20px 4px; font-size: 15px; }
+  .tabela-card p.sub { margin: 0; padding: 0 20px 12px; font-size: 12.5px; color: var(--text-3); }
+  .rolagem { overflow-x: auto; }
+  table { width: 100%; border-collapse: collapse; font-size: 13px; }
+  th { text-align: left; font-weight: 500; font-size: 11.5px; color: var(--text-3); padding: 8px 12px; background: var(--surface-2); border-top: 1px solid var(--border); border-bottom: 1px solid var(--border); white-space: nowrap; }
+  th.num, td.num { text-align: right; font-variant-numeric: tabular-nums; }
+  td { padding: 10px 12px; border-bottom: 1px solid var(--border); vertical-align: middle; }
+  tr:last-child td { border-bottom: 0; }
+  tr:hover td { background: var(--hover); }
+  .pos { font: 600 12px var(--mono); color: var(--text-3); width: 32px; }
+  .vid { display: flex; align-items: center; gap: 10px; min-width: 260px; }
+  .vid img { width: 40px; height: 56px; object-fit: cover; border-radius: 6px; background: #000; flex: none; }
+  .vid a { font-weight: 600; line-height: 1.3; }
+  .vid a:hover { text-decoration: underline; }
+  .chip { display: inline-flex; align-items: center; gap: 6px; white-space: nowrap; color: var(--text-2); }
+  .chip i { width: 8px; height: 8px; border-radius: 50%; }
+  .sem { padding: 30px 20px; text-align: center; color: var(--text-3); }
+
+  @media (max-width: 980px) { .kpis, .canais { grid-template-columns: repeat(2, minmax(0, 1fr)); } .graficos { grid-template-columns: minmax(0, 1fr); } }
+  @media (max-width: 560px) { .topo, .main { padding-left: 16px; padding-right: 16px; } .kpi b { font-size: 26px; } .canais { grid-template-columns: minmax(0, 1fr); } }
+</style>
+</head>
+{% macro icone(n) -%}
+<svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+{%- if n == 'split' %}<path d="M8 14V9M8 9L4 5M8 9l4-4M2.5 5.5V2.5h3M13.5 5.5V2.5h-3"/>
+{%- elif n == 'skull' %}<path d="M8 2a5.5 5.5 0 0 0-3 10.1V14h6v-1.9A5.5 5.5 0 0 0 8 2z"/><circle cx="6" cy="8" r="1"/><circle cx="10" cy="8" r="1"/>
+{%- elif n == 'question' %}<circle cx="8" cy="8" r="6"/><path d="M6.3 6.2a1.8 1.8 0 0 1 3.4.8c0 1.2-1.7 1.5-1.7 2.6M8 11.5v.01"/>
+{%- else %}<path d="M3 2.5h7.5L13 5v8.5H3z"/><path d="M5.5 7h5M5.5 9.5h5"/>
+{%- endif %}</svg>
+{%- endmacro %}
+{% macro numero(n) %}{{ '{:,}'.format(n).replace(',', '.') }}{% endmacro %}
+{% macro delta(d, sufixo) -%}
+{% if d is none %}<small>primeiro registro hoje</small>{% elif d > 0 %}<small class="sobe">▲ +{{ numero(d) }} {{ sufixo }}</small>{% else %}<small>sem mudança {{ sufixo }}</small>{% endif %}
+{%- endmacro %}
+<body>
+<header class="topo">
+  <div class="marca"><span class="logo"><svg viewBox="0 0 16 16" width="15" height="15"><path d="M5 3v10l8.5-5z" fill="#FF3B30"/></svg></span><b>Fábrica de Shorts</b></div>
+  <a class="voltar" href="/"><svg viewBox="0 0 16 16" width="14" height="14" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M10 3.5L5.5 8l4.5 4.5"/></svg>Voltar ao painel</a>
+</header>
+
+<main class="main">
+  <div class="cab">
+    <div>
+      <h1>Insights</h1>
+      <p>Desempenho dos seus 4 canais · atualizado às {{ dados.atualizado_em[11:16] }}{% if base_data %} · comparando com {{ base_data[8:10] }}/{{ base_data[5:7] }}{% endif %}</p>
+    </div>
+    <form method="post" action="/insights/atualizar"><button class="btn"><svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M13.5 8a5.5 5.5 0 1 1-1.6-3.9"/><path d="M13.5 2.5v3h-3"/></svg>Atualizar agora</button></form>
+  </div>
+
+  {% for e in dados.erros %}<div class="erro">Não consegui ler um canal: {{ e }}</div>{% endfor %}
+
+  <section class="kpis">
+    <div class="card kpi"><span>Views dos Shorts</span><b>{{ numero(tot.views_shorts) }}</b>{{ delta(tot.delta_views, 'desde o último registro') }}</div>
+    <div class="card kpi"><span>Inscritos (4 canais)</span><b>{{ numero(tot.inscritos) }}</b>{{ delta(tot.delta_inscritos, 'desde o último registro') }}</div>
+    <div class="card kpi"><span>Shorts publicados</span><b>{{ numero(tot.shorts) }}</b><small>vídeos públicos</small></div>
+    <div class="card kpi"><span>Média de views por Short</span><b>{{ numero(tot.media) }}</b><small>views ÷ Shorts</small></div>
+  </section>
+
+  <section class="canais">
+    {% for c in dados.canais %}
+      <a class="card canal" style="--cc: {{ c.cor }}" href="https://www.youtube.com/channel/{{ c.youtube_id }}" target="_blank" rel="noopener" title="Abrir o canal no YouTube">
+        <div class="canal-top"><span class="tile">{{ icone(c.icone) }}</span><div><strong>{{ c.titulo }}</strong><small>{{ c.handle }}</small></div></div>
+        <dl>
+          <div><dt>Inscritos</dt><dd>{{ numero(c.inscritos) }}{% if c.delta_inscritos %}<em>+{{ c.delta_inscritos }}</em>{% endif %}</dd></div>
+          <div><dt>Views</dt><dd>{{ numero(c.views_shorts) }}{% if c.delta_views %}<em>+{{ c.delta_views }}</em>{% endif %}</dd></div>
+          <div><dt>Shorts</dt><dd>{{ c.shorts }}</dd></div>
+        </dl>
+        <div class="melhor">{% if c.videos %}Melhor: <b>{{ c.videos[0].titulo }}</b> · {{ numero(c.videos[0].views) }} views{% else %}Nenhum Short publicado ainda{% endif %}</div>
+      </a>
+    {% endfor %}
+  </section>
+
+  <section class="graficos">
+    <div class="card grafico">
+      <h2>Views por canal</h2>
+      <p class="sub">Soma das views dos Shorts públicos de cada canal</p>
+      <div id="g-views"></div>
+    </div>
+    <div class="card grafico">
+      <h2>Inscritos ao longo dos dias</h2>
+      <p class="sub">Um registro por dia, salvo sempre que esta tela é atualizada</p>
+      <div id="g-inscritos"></div>
+    </div>
+  </section>
+
+  <section class="card tabela-card">
+    <h2>Ranking dos Shorts</h2>
+    <p class="sub">Todos os Shorts públicos, do mais visto ao menos visto</p>
+    {% if videos %}
+      <div class="rolagem"><table>
+        <thead><tr><th>#</th><th>Short</th><th>Canal</th><th class="num">Views</th><th class="num">Curtidas</th><th class="num">Comentários</th><th class="num">Views/dia</th><th class="num">Publicado</th></tr></thead>
+        <tbody>
+          {% for v in videos %}
+            <tr>
+              <td class="pos">{{ loop.index }}</td>
+              <td><div class="vid">{% if v.thumb %}<img src="{{ v.thumb }}" alt="" loading="lazy">{% endif %}<a href="https://youtube.com/shorts/{{ v.id }}" target="_blank" rel="noopener">{{ v.titulo }}</a></div></td>
+              <td><span class="chip"><i style="background: {{ v.cor }}"></i>{{ v.canal }}</span></td>
+              <td class="num"><b>{{ numero(v.views) }}</b></td>
+              <td class="num">{{ numero(v.likes) }}</td>
+              <td class="num">{{ numero(v.comentarios) }}</td>
+              <td class="num">{{ v.views_dia }}</td>
+              <td class="num">{{ v.publicado[8:10] }}/{{ v.publicado[5:7] }}</td>
+            </tr>
+          {% endfor %}
+        </tbody>
+      </table></div>
+    {% else %}
+      <div class="sem">Nenhum Short público ainda. Aprove um vídeo no painel para ele aparecer aqui.</div>
+    {% endif %}
+  </section>
+</main>
+
+<div class="tip" id="tip"></div>
+
+<script>
+const CANAIS = {{ dados.canais | map(attribute='titulo') | list | tojson }};
+const BARRAS = {{ dados.canais | map(attribute='views_shorts') | list | tojson }};
+const SHORTS = {{ dados.canais | map(attribute='shorts') | list | tojson }};
+const CORES = {{ dados.canais | map(attribute='cor') | list | tojson }};
+const SERIE = {{ serie | tojson }};
+const NS = 'http://www.w3.org/2000/svg';
+const fmt = n => (n ?? 0).toLocaleString('pt-BR');
+const tip = document.getElementById('tip');
+
+function el(tag, attrs, pai) {
+  const e = document.createElementNS(NS, tag);
+  for (const k in attrs) e.setAttribute(k, attrs[k]);
+  if (pai) pai.appendChild(e);
+  return e;
+}
+function mostrarTip(html, ev) {
+  tip.innerHTML = html; tip.classList.add('on');
+  const x = Math.min(ev.clientX + 14, innerWidth - tip.offsetWidth - 10);
+  const y = Math.min(ev.clientY + 14, innerHeight - tip.offsetHeight - 10);
+  tip.style.left = x + 'px'; tip.style.top = y + 'px';
+}
+const esconderTip = () => tip.classList.remove('on');
+// teto do eixo com 4 divisões inteiras e redondas (passo 1, 2, 5 × 10^n): 4, 8, 20, 40, 200…
+function teto(v) {
+  const alvo = Math.max(v, 1) / 4;
+  const p = Math.pow(10, Math.floor(Math.log10(alvo)));
+  const passo = [1, 2, 2.5, 5, 10].map(m => m * p).find(s => s >= alvo);
+  return Math.max(4, Math.ceil(passo) * 4);
+}
+
+// ---------- barras horizontais: views por canal
+(function () {
+  const caixa = document.getElementById('g-views');
+  const W = 520, linha = 46, esq = 150, dir = 70, H = CANAIS.length * linha + 26;
+  const max = teto(Math.max(...BARRAS, 1));
+  const svg = el('svg', {viewBox: `0 0 ${W} ${H}`, class: 'chart', role: 'img', 'aria-label': 'Views por canal'}, caixa);
+  const largura = W - esq - dir;
+  for (let i = 0; i <= 4; i++) {  // grade recessiva
+    const x = esq + largura * i / 4;
+    el('line', {x1: x, x2: x, y1: 0, y2: H - 22, stroke: 'var(--grid)', 'stroke-width': 1}, svg);
+    const t = el('text', {x, y: H - 6, 'text-anchor': 'middle', 'font-size': 11, fill: 'var(--text-3)'}, svg);
+    t.textContent = fmt(max * i / 4);
+  }
+  CANAIS.forEach((nome, i) => {
+    const y = i * linha + 10, h = 24, w = Math.max(BARRAS[i] ? 4 : 0, largura * BARRAS[i] / max);
+    const rotulo = el('text', {x: esq - 12, y: y + h / 2 + 4, 'text-anchor': 'end', 'font-size': 12.5, fill: 'var(--text-2)', 'font-weight': 500}, svg);
+    rotulo.textContent = nome.length > 20 ? nome.slice(0, 19) + '…' : nome;
+    if (w > 0) el('path', {d: `M${esq},${y} h${w - 4} a4,4 0 0 1 4,4 v${h - 8} a4,4 0 0 1 -4,4 h-${w - 4} z`, fill: CORES[i]}, svg);
+    else el('line', {x1: esq, x2: esq, y1: y, y2: y + h, stroke: 'var(--border-2)', 'stroke-width': 2}, svg);
+    const valor = el('text', {x: esq + w + 8, y: y + h / 2 + 4, 'font-size': 12.5, fill: 'var(--text)', 'font-weight': 600}, svg);
+    valor.textContent = fmt(BARRAS[i]);
+    // área de toque maior que a barra
+    const alvo = el('rect', {x: 0, y: y - 8, width: W, height: linha - 4, fill: 'transparent'}, svg);
+    const media = SHORTS[i] ? Math.round(BARRAS[i] / SHORTS[i]) : 0;
+    alvo.addEventListener('mousemove', ev => mostrarTip(`<b>${nome}</b><div class="lin"><i style="background:${CORES[i]}"></i>Views<span>${fmt(BARRAS[i])}</span></div><div class="lin"><i style="background:transparent"></i>Shorts<span>${SHORTS[i]}</span></div><div class="lin"><i style="background:transparent"></i>Média por Short<span>${fmt(media)}</span></div>`, ev));
+    alvo.addEventListener('mouseleave', esconderTip);
+  });
+})();
+
+// ---------- linhas: inscritos por dia (um eixo só)
+(function () {
+  const caixa = document.getElementById('g-inscritos');
+  const datas = SERIE.datas, n = datas.length;
+  const leg = document.createElement('div');
+  leg.className = 'legenda';
+  leg.innerHTML = SERIE.canais.map(c => `<span><i style="background:${c.cor}"></i>${c.nome}</span>`).join('');
+  caixa.appendChild(leg);
+  if (n < 2) {
+    const v = document.createElement('div');
+    v.className = 'vazio-graf';
+    v.innerHTML = `<div><b style="color:var(--text-2)">A linha aparece a partir do 2º dia</b><br>Hoje: ${SERIE.canais.map(c => `${c.nome} ${fmt(c.valores[n - 1])}`).join(' · ')}</div>`;
+    caixa.appendChild(v);
+    return;
+  }
+  const W = 600, H = 250, esq = 40, dir = 112, topo = 10, base = 26;
+  const todos = SERIE.canais.flatMap(c => c.valores).filter(v => v != null);
+  const max = teto(Math.max(...todos, 1));
+  const X = i => esq + (W - esq - dir) * (n === 1 ? 0.5 : i / (n - 1));
+  const Y = v => topo + (H - topo - base) * (1 - v / max);
+  const svg = el('svg', {viewBox: `0 0 ${W} ${H}`, class: 'chart', role: 'img', 'aria-label': 'Inscritos por dia'}, caixa);
+  for (let i = 0; i <= 4; i++) {
+    const y = Y(max * i / 4);
+    el('line', {x1: esq, x2: W - dir, y1: y, y2: y, stroke: 'var(--grid)', 'stroke-width': 1}, svg);
+    const t = el('text', {x: esq - 8, y: y + 4, 'text-anchor': 'end', 'font-size': 11, fill: 'var(--text-3)'}, svg);
+    t.textContent = fmt(max * i / 4);
+  }
+  const passo = Math.ceil(n / 6);
+  datas.forEach((d, i) => {
+    if (i % passo && i !== n - 1) return;
+    const t = el('text', {x: X(i), y: H - 6, 'text-anchor': 'middle', 'font-size': 11, fill: 'var(--text-3)'}, svg);
+    t.textContent = `${d.slice(8, 10)}/${d.slice(5, 7)}`;
+  });
+  const rotulos = [];
+  SERIE.canais.forEach(c => {
+    const pts = c.valores.map((v, i) => v == null ? null : [X(i), Y(v)]).filter(Boolean);
+    if (!pts.length) return;
+    el('path', {d: 'M' + pts.map(p => p.join(',')).join(' L'), fill: 'none', stroke: c.cor, 'stroke-width': 2, 'stroke-linejoin': 'round', 'stroke-linecap': 'round'}, svg);
+    const ult = pts[pts.length - 1];
+    el('circle', {cx: ult[0], cy: ult[1], r: 4, fill: c.cor, stroke: 'var(--surface)', 'stroke-width': 2}, svg);
+    rotulos.push({x: ult[0] + 9, y: ult[1], nome: c.nome.length > 14 ? c.nome.slice(0, 13) + '…' : c.nome, cor: c.cor});
+  });
+  // rótulos no fim das linhas sem sobreposição: empilha com 14px de distância mínima
+  rotulos.sort((a, b) => a.y - b.y);
+  for (let i = 1; i < rotulos.length; i++) rotulos[i].y = Math.max(rotulos[i].y, rotulos[i - 1].y + 14);
+  // se o último passou da base, sobe de baixo para cima só o necessário (mantendo os 14px)
+  if (rotulos.length) {
+    rotulos[rotulos.length - 1].y = Math.min(rotulos[rotulos.length - 1].y, H - base - 2);
+    for (let i = rotulos.length - 2; i >= 0; i--) rotulos[i].y = Math.min(rotulos[i].y, rotulos[i + 1].y - 14);
+  }
+  rotulos.forEach(r => {
+    el('rect', {x: r.x, y: r.y - 3.5, width: 7, height: 7, rx: 2, fill: r.cor}, svg);
+    const t = el('text', {x: r.x + 11, y: r.y + 4, 'font-size': 11.5, fill: 'var(--text-2)', 'font-weight': 500}, svg);
+    t.textContent = r.nome;
+  });
+  // cruz de leitura + dica com todos os canais naquele dia
+  const guia = el('line', {y1: topo, y2: H - base, stroke: 'var(--border-2)', 'stroke-width': 1, opacity: 0}, svg);
+  const alvo = el('rect', {x: esq, y: 0, width: W - esq - dir, height: H - base, fill: 'transparent'}, svg);
+  alvo.addEventListener('mousemove', ev => {
+    const r = svg.getBoundingClientRect();
+    const xv = (ev.clientX - r.left) * W / r.width;
+    const i = Math.max(0, Math.min(n - 1, Math.round((xv - esq) / ((W - esq - dir) / (n - 1)))));
+    guia.setAttribute('x1', X(i)); guia.setAttribute('x2', X(i)); guia.setAttribute('opacity', 1);
+    const d = datas[i];
+    mostrarTip(`<b>${d.slice(8, 10)}/${d.slice(5, 7)}/${d.slice(0, 4)}</b>` + SERIE.canais.map(c => `<div class="lin"><i style="background:${c.cor}"></i>${c.nome}<span>${fmt(c.valores[i])}</span></div>`).join(''), ev);
+  });
+  alvo.addEventListener('mouseleave', () => { guia.setAttribute('opacity', 0); esconderTip(); });
+})();
+</script>
+</body>
+</html>
